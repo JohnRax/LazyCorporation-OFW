@@ -8,8 +8,8 @@ handlers:
   upload: .+\.(gif|png|jpg)$
   application_readable: true
 
-- url: /(.+\.css)$
-  static_dir: stylesheets
+- url: /css
+  static_dir: css
   
   
 # Serve php scripts.
