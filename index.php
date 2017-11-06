@@ -16,8 +16,9 @@
 			header("Location:index-candidate.php");
 		}
 	}
-	
+	session_destroy();
 
+	
 	if (isset($_GET['source'])) {
 
 		$source=$_GET['source'];

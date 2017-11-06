@@ -132,7 +132,7 @@ function post_job()
 				$jobdistrictlocation=$_POST['j_districtlocation'];
 				$jtype=$_POST['j_type'];
 				$jcategory=$_POST['j_category'];
-				$jtags=$_POST['j_tags'];
+				
 				$jdescription=$_POST['j_description'];
 				$jworkingstatus=$_POST['j_workingstatus'];
 				$jmainduties=$_POST['j_mainduties'];
@@ -152,7 +152,7 @@ function post_job()
 				$jobdistrictlocation= mysqli_real_escape_string($connection,$jobdistrictlocation);
 				$jtype= mysqli_real_escape_string($connection,$jtype);
 				$jcategory= mysqli_real_escape_string($connection,$jcategory);
-				$jtags= mysqli_real_escape_string($connection,$jtags);
+				
 				$jdescription= mysqli_real_escape_string($connection,$jdescription);
 				$jworkingstatus= mysqli_real_escape_string($connection,$jworkingstatus);
 				$jmainduties= mysqli_real_escape_string($connection,$jmainduties);
@@ -173,7 +173,7 @@ function post_job()
 																	j_districtlocation,
 																	j_type,
 																	j_category,
-																	j_tags,
+																	
 																	j_description,
 																	j_workingstatus,
 																	j_mainduties,
@@ -195,7 +195,7 @@ function post_job()
 																		'$jobdistrictlocation',
 																		'$jtype',
 																		'$jcategory',
-																		'$jtags',
+																		
 																		'$jdescription',
 																		'$jworkingstatus',
 																		'$jmainduties',
