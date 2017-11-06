@@ -18,12 +18,15 @@
                             <a href="index.php?source=dashboard"><i class="fa fa-dashboard fa-fw"></i> Dashboard</a>
                         </li>
                       
-                       <li>
-                            <a href="index.php?source=user"><i class="fa fa-wrench fa-users"></i> Users<span class="fa arrow"></span></a>
+                         <li>
+                            <a href="index.php?source=user"><i class="fa fa-bar-chart-o fa-users"></i> Users<span class="fa arrow"></span></a>
                             <ul class="nav nav-second-level">
                                 <li>
-                                    <a href="index.php?source=user">Add New User</a>
-                                </li>      
+                                    <a href="index.php?source=user">View all User</a>
+                                </li>
+                                <li>
+                                    <a href="morris.html">Add New User</a>
+                                </li>
                             </ul>
                             <!-- /.nav-second-level -->
                         </li>

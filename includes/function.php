@@ -16,7 +16,7 @@ function register_user()
 				$firstname=mysqli_real_escape_string($connection,$firstname);
 				$lastname=mysqli_real_escape_string($connection,$lastname);
 				$username=mysqli_real_escape_string($connection,$username);
-				$password=md5(mysqli_real_escape_string($connection,$password));
+				$password=mysqli_real_escape_string($connection,$password);
 				$email=mysqli_real_escape_string($connection,$email);
 				$role=mysqli_real_escape_string($connection,$role);
 				$gender=mysqli_real_escape_string($connection,$gender);
@@ -58,7 +58,6 @@ function register_user()
 function login_user()
 {
 	global $connection;
-	
 	if (isset($_POST['submit'])) 
 			{
 				$username=$_POST['u_username'];
@@ -246,7 +245,7 @@ function submit_profile()
 				$resumecategory=mysqli_real_escape_string($connection,$resumecategory);
 				$upemail=mysqli_real_escape_string($connection,$upemail);
 				$nationality=mysqli_real_escape_string($connection,$nationality);
-				$address=md5(mysqli_real_escape_string($connection,$address));
+				$address=mysqli_real_escape_string($connection,$address);
 				$age=mysqli_real_escape_string($connection,$age);
 				$maritalstatus=mysqli_real_escape_string($connection,$maritalstatus);
 				$mobile=mysqli_real_escape_string($connection,$mobile);
