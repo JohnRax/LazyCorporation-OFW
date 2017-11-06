@@ -25,7 +25,10 @@
 
 							<p class="form-row form-row-wide"><label for="u_gender">Gender</label> 
 							<select class="jobify-registration-role" name="u_gender">
-								<option selected='selected' value="male">
+								<option selected disabled >
+									Select your gender
+								</option>
+								<option value="male">
 									Male
 								</option>
 								<option value="female">
@@ -49,12 +52,16 @@
 
 							<p class="form-row form-row-wide"><label for="u_role">Register As</label> 
 							<select class="jobify-registration-role" name="u_role">
-								<option selected='selected' value="employer">
-									Employer
+								<option selected disabled >
+									Select category
 								</option>
 								<option value="candidate">
 									Candidate
 								</option>
+								<option  value="employer">
+									Employer
+								</option>
+								
 							</select></p>
 							<div class="g-recaptcha" data-sitekey="6LchDSUTAAAAALv1tUkJXAZ4qKPrPQVgu--50gHW" data-theme="light" id="g-recaptcha-0"></div><noscript>Please enable JavaScript to submit this form.<br></noscript>
 							<p class="woocomerce-FormRow form-row">

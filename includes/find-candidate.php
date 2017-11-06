@@ -204,6 +204,13 @@
                        });
                     });
                     </script></code>
+                    <ul class="job_listings">
+                        <?php 
+
+                            echo search_candidate();
+
+                         ?>
+                    </ul>
                     <ul class="resumes"></ul><code><a class="load_more_resumes" href="#" style="display:none;"><strong>Load more resumes</strong></a></code>
                 </div>
                 <p><strong>HelperPlace</strong> has listed for you a lot of qualified&nbsp;candidates with experiences (Domestic Helper, Driver, cooking skills…). You are currently looking for a domestic helper&nbsp;and you would like to find&nbsp;Domestic Helper&nbsp;your family? You have now the possibility to connect with helpers&nbsp;close to you!</p>

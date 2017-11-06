@@ -16,12 +16,7 @@
 						<div class="entry-content">
 							<h2 style="text-align: center;"><span style="color: #993300;">Connect&nbsp;Freely with Employers</span></h2>
 							<form  class="" enctype="multipart/form-data" method="post">
-								<fieldset>
-									<label>Have an account?</label>
-									<div class="field account-sign-in">
-										<a class="button" href="my-account-23cd8.html?redirect_to=https://www.helperplace.com/submit-your-profile?job_id=0">Sign in</a> If you don&rsquo;t have an account you can create one below by entering your email address. Your account details will be confirmed via email.
-									</div>
-								</fieldset>
+								
 								<fieldset class="fieldset-job_section1">
 									<label for="job_section1">Personal Information</label>
 									<div class="field">
@@ -66,13 +61,13 @@
 								<fieldset class="fieldset-candidate_name">
 									<label for="candidate_name">Last name</label>
 									<div class="field">
-										<input class="jmfe-text-field jmfe-input-text input-text text-candidate_name" id="candidate_name" name="u_lname" placeholder="Your full name" required="" title="" type="text" value="">
+										<input class="jmfe-text-field jmfe-input-text input-text text-candidate_name" id="candidate_name" name="u_lname" placeholder="Last name" required="" title="" type="text" value="">
 									</div>
 								</fieldset>
 								<fieldset class="fieldset-candidate_name">
 									<label for="candidate_name">First name</label>
 									<div class="field">
-										<input class="jmfe-text-field jmfe-input-text input-text text-candidate_name" id="candidate_name" name="u_fname" placeholder="Your full name" required="" title="" type="text" value="">
+										<input class="jmfe-text-field jmfe-input-text input-text text-candidate_name" id="candidate_name" name="u_fname" placeholder="First name" required="" title="" type="text" value="">
 									</div>
 								</fieldset>
 								<fieldset class="fieldset-candidate_email">
@@ -349,7 +344,7 @@
 									</div>
 								</fieldset>
 								<fieldset class="fieldset-working_experiences">
-									<label for="working_experiences">Years of Experience As Helper</label>
+									<label for="working_experiences">Years of Experience</label>
 									<div class="field">
 										<select class="jmfe-select-field jmfe-input-select input-select select-working_experiences" id="working_experiences" name="upi_yearsofexp">
 											<option value="Years">
@@ -520,9 +515,9 @@
 								<fieldset class="fieldset-candidate_available">
 									<label for="candidate_available">Available from</label>
 									<div class="field">
-										<input class="jmfe-date-field jmfe-input-date input-date input-text jmfe-date-picker date-picker-candidate_available" id="candidate_available" maxlength="" name="upi_availability" placeholder="" type="text" value="">
+										<input class="jmfe-date-field jmfe-input-date input-date input-text jmfe-date-picker date-picker-candidate_available" id="candidate_available" maxlength="" name="upi_availability" placeholder="" type="date" value="">
 									</div>
-								</fieldset>
+								</fieldset> 
 								<fieldset class="fieldset-candidate_education">
 									<label for="candidate_education">Education <small>(optional)</small></label>
 									<div class="field">
