@@ -82,7 +82,18 @@
 
                         });
                         </script>
-                        <ul class="job_listings"></ul><a class="load_more_jobs" href="#" style="display:none;"><strong>Load more listings</strong></a>
+
+
+                    <ul class="job_listings">
+                        <?php 
+
+                            echo search_job();
+
+                         ?>
+                    </ul>
+           
+
+
                     </div>
                     <p>&nbsp;</p>
                     <p><strong>HelperPlace</strong> has listed for you a lot of new positions (Domestic Helper, Driver, Full Time&#8230;). You are currently looking for a job and you want to find the best employers? You have now the possibility to connect with employers close to you and you will find a job!</p>

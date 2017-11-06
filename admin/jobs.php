@@ -4,8 +4,11 @@
                     <div class="col-lg-12">
                         <h1 class="page-header">Jobs</h1>
                     </div>
-                     <table class="table table-bordered table-hover">
+                   
+                  
+                     <table class="table table-bordered table-hover" >
                         <thead>
+                        
                             <tr>                     
                                 <th>JOB ID</th> 
                                 <th>POST BY</th>  
@@ -14,7 +17,6 @@
                                 <th>LOCATION</th> 
                                 <th>TYPE</th> 
                                 <th>CATEGORY</th> 
-                                <th>TAGS</th> 
                                 <th>DESCRIPTION</th> 
                                 <th>WORKING STATUS</th> 
                                 <th>MAIN DUTIES</th> 
@@ -30,7 +32,7 @@
                                             
                             </tr>
                         </thead>
-                        <tbody>   
+                        <tbody >   
                            <?php echo view_jobs(); ?>
                               
                                                                                                                                                                         

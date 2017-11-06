@@ -1,216 +1,484 @@
+
+<br><br><br><br><br>
 	<div class="site-main" id="main">
-		<div class="single_job_listing" itemscope itemtype="http://schema.org/JobPosting">
-			<div class="page-header">
-				<h2 class="page-title">Looking for helper who is finishing contract</h2>
-				<meta content="Looking for helper who is finishing contract" itemprop="title">
-				<h3 class="page-subtitle">Chinese Family<br></h3>
-				<ul class="job-listing-meta meta">
-					<li class="job-type full-time" itemprop="employmentType">Full Time</li>
-					<li class="location" itemprop="jobLocation">
-						<a href="https://www.helperplace.com/job-region/hong-kong" rel="tag">Hong Kong</a>
-					</li>
-					<li class="date-posted" itemprop="datePosted">Posted 3 days ago</li>
-					<li class="job-company">
-						<a href="https://www.helperplace.com/company/Direct%20Employer/" target="_blank">Direct Employer</a>
-					</li>
-				</ul>
-			</div>
-			<div class="container content-area" id="content" role="main">
-				<div class="job-meta-top row">
-					<div class="col-md-3 col-sm-6 col-xs-12">
-						<aside class="widget widget--job_listing widget--job_listing-top jobify_widget_job_company_logo" id="jobify_widget_job_company_logo-2">
-							<a href="https://www.helperplace.com/company/Direct%20Employer/" target="_blank"><img alt="Direct Employer" class="company_logo" data-recalc-dims="1" src="https://i0.wp.com/www.helperplace.com/wp-content/uploads/2016/08/Couple-baby-helper.jpg?w=680&#038;ssl=1"></a>
-						</aside>
-					</div>
-					<div class="col-md-3 col-sm-6 col-xs-12">
-						<aside class="widget widget--job_listing widget--job_listing-top jobify_widget_job_tags" id="jobify_widget_job_tags-2">
-							<h3 class="widget-title widget-title--job_listing widget-title--job_listing-top">Required Skills</h3><a class="job-tag" href="https://www.helperplace.com/job-tag/baby-care">Baby care</a><a class="job-tag" href="https://www.helperplace.com/job-tag/cooking">Cooking</a><a class="job-tag" href="https://www.helperplace.com/job-tag/housekeeping">Housekeeping</a>
-						</aside>
-						<aside class="widget widget--job_listing widget--job_listing-top widget_jmfe_widget" id="jmfe_widget-5">
-							<h3 class="widget-title widget-title--job_listing widget-title--job_listing-top">Family Type</h3>Couple + 1 kid<br>
-						</aside>
-						<aside class="widget widget--job_listing widget--job_listing-top widget_jmfe_widget" id="jmfe_widget-7">
-							<h3 class="widget-title widget-title--job_listing widget-title--job_listing-top">Start Date</h3>1 December 2017
-						</aside>
-					</div>
-					<div class="col-md-3 col-sm-6 col-xs-12">
-						<aside class="widget widget--job_listing widget--job_listing-top jobify_widget_job_categories" id="jobify_widget_job_categories-2">
-							<h3 class="widget-title widget-title--job_listing widget-title--job_listing-top">Looking for</h3>
-							<div class="job_listing-categories">
-								<a class="job-category" href="https://www.helperplace.com/job-category/helper">Domestic Helper</a>
-							</div>
-						</aside>
-						<aside class="widget widget--job_listing widget--job_listing-top widget_jmfe_widget" id="jmfe_widget-6">
-							<h3 class="widget-title widget-title--job_listing widget-title--job_listing-top">Speaking</h3>English<br>
-						</aside>
-					</div>
-					<div class="col-md-3 col-sm-6 col-xs-12">
-						<aside class="widget widget--job_listing widget--job_listing-top jobify_widget_job_apply" id="jobify_widget_job_apply-2">
-							<h3 class="widget-title widget-title--job_listing widget-title--job_listing-top">Get this Job!</h3>
-							<div class="job_application application">
-								<input class="application_button button" type="button" value="Apply for job">
-								<div class="application_details">
-									<form action="https://www.helperplace.com/submit-your-profile" class="apply_with_resume" method="post">
-										<p>You can apply to this job and others using your online resume. Click the link below to submit your online resume and email your application to this employer.</p>
-										<p><input name="wp_job_manager_resumes_apply_with_resume_create" type="submit" value="Submit Resume &amp; Apply"> <input name="job_id" type="hidden" value="100052679"></p>
-									</form>
-								</div>
-							</div>
-						</aside>
-						<aside class="widget widget--job_listing widget--job_listing-top jobify_widget_job_share" id="jobify_widget_job_share-2">
-							<h3 class="widget-title widget-title--job_listing widget-title--job_listing-top">Share This Job</h3>
-							<div class="sharedaddy sd-sharing-enabled">
-								<div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing">
-									<h3 class="sd-title">Share this:</h3>
-									<div class="sd-content">
-										<ul>
-											<li class="share-facebook">
-												<a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-100052679" href="https://www.helperplace.com/job/direct-employer-2-looking-for-helper-who-is-finishing-contract?share=facebook" rel="nofollow" target="_blank" title="Click to share on Facebook"><span></span><span class="sharing-screen-reader-text">Click to share on Facebook (Opens in new window)</span></a>
-											</li>
-											<li class="share-jetpack-whatsapp">
-												<a class="share-jetpack-whatsapp sd-button share-icon no-text" data-shared="" href="whatsapp://send?text=Looking%20for%20helper%20who%20is%20finishing%20contract%20https%3A%2F%2Fwww.helperplace.com%2Fjob%2Fdirect-employer-2-looking-for-helper-who-is-finishing-contract" rel="nofollow" target="_blank" title="Click to share on WhatsApp"><span></span><span class="sharing-screen-reader-text">Click to share on WhatsApp (Opens in new window)</span></a>
-											</li>
-											<li class="share-google-plus-1">
-												<a class="share-google-plus-1 sd-button share-icon no-text" data-shared="sharing-google-100052679" href="https://www.helperplace.com/job/direct-employer-2-looking-for-helper-who-is-finishing-contract?share=google-plus-1" rel="nofollow" target="_blank" title="Click to share on Google+"><span></span><span class="sharing-screen-reader-text">Click to share on Google+ (Opens in new window)</span></a>
-											</li>
-											<li class="share-twitter">
-												<a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-100052679" href="https://www.helperplace.com/job/direct-employer-2-looking-for-helper-who-is-finishing-contract?share=twitter" rel="nofollow" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a>
-											</li>
-											<li class="share-end"></li>
+		<header class="page-header">
+			<h1 class="page-title">Post A Job</h1>
+		</header>
+		<?php echo post_job(); ?>
+		<div class="content-area container" id="primary" role="main">
+			<div class="row">
+				<div class="col-sm-12 col-md-10 col-md-offset-1">
+					<article class="post-14 page type-page status-publish hentry" id="post-14">
+						<div class="entry-content">
+							<form  class=""  method="post">
+								<fieldset class="fieldset-ads_info">
+									<label for="ads_info">Information about your search</label>
+									<div class="field">
+										<h2 class="jmfe-header-field header-ads_info" id="ads_info" style=""></h2>
+										<div id="description-ads_info">
+											<small class="description header-ads_info-description">Please fill accurate information to quickly get candidates.</small>
+										</div>
+									</div>
+								</fieldset>
+								<fieldset class="fieldset-job_title">
+									<label for="job_title">Job Title</label>
+									<div class="field required-field">
+										<input class="jmfe-text-field jmfe-input-text input-text text-job_title" id="job_title" name="j_jobtitle" placeholder="e.g &quot;Western family is looking for Helper&quot;" required="" title="" type="text" value="">
+									</div>
+								</fieldset>
+								<fieldset class="fieldset-job_region">
+									<label for="job_region">Job Region</label>
+									<div class="field required-field">
+										<select class='postform' id='job_region' name='j_country' required="">
+											<option selected disabled>
+												Select Country
+											</option>
+											<option class="level-0" value="Hong Kong">
+												Hong Kong
+											</option>
+											<option class="level-0" value="Macau">
+												Macau
+											</option>
+											<option class="level-0" value="Qatar">
+												Qatar
+											</option>
+											<option class="level-0" value="Saudi Arabia">
+												Saudi Arabia
+											</option>
+											<option class="level-0" value="Singapore">
+												Singapore
+											</option>
+											<option class="level-0" value="State of Kuwait">
+												State of Kuwait
+											</option>
+											<option class="level-0" value="United Arab Emirates">
+												United Arab Emirates
+											</option>
+										</select>
+									</div>
+								</fieldset>
+								<fieldset class="fieldset-job_location">
+									<label for="job_location">City <small></small></label>
+									<div class="field">
+										<input class="jmfe-text-field jmfe-input-text input-text text-job_location" id="job_location" name="j_districtlocation" placeholder="e.g. &quot;Wan Chai&quot;" title="" type="text" value=""> <small class="description text-job_location-description">As your location is important for the candidates, we recommend you to fill your district location.</small>
+									</div>
+								</fieldset>
+								<fieldset class="fieldset-job_type">
+									<label for="job_type">Job type</label>
+									<div class="field required-field">
+										<select class='postform' id='job_type' name='j_type' required="">
+											
+											<option selected disabled>
+												Select job type
+											</option>
+											<option class="level-0" selected="selected" value="Full Time">
+												Full Time
+											</option>
+											<option class="level-0" value="Part Time">
+												Part Time
+											</option>
+											<option class="level-0" value="Temporary">
+												Temporary
+											</option>
+										</select>
+									</div>
+								</fieldset>
+								<fieldset class="fieldset-job_category">
+									<label for="job_category">Job category <small>(optional)</small></label>
+									<div class="field">
+										<select class='postform' id='job_category' name='j_category'>
+											<option selected disabled>
+												Select job category
+											</option>
+											<option class="level-0" value="Domestic Helper">
+												Domestic Helper
+											</option>
+											<option class="level-0" value="Driver">
+												Driver
+											</option>
+											<option class="level-0" value="Other">
+												Other
+											</option>
+											<option class="level-1" value="Babysitter">
+												&nbsp;&nbsp;&nbsp;Babysitter
+											</option>
+											<option class="level-1" value="Gardener">
+												&nbsp;&nbsp;&nbsp;Gardener
+											</option>
+											<option class="level-1" value="Handyman">
+												&nbsp;&nbsp;&nbsp;Handyman
+											</option>
+											<option class="level-1" value="Marternity Specialist">
+												&nbsp;&nbsp;&nbsp;Marternity Specialist
+											</option>
+										</select>
+									</div>
+								</fieldset>
+								
+								<fieldset class="fieldset-job_description">
+									<label for="job_description">Job Description</label>
+									<div class="field required-field">
+										<div class="wp-core-ui wp-editor-wrap html-active" id="wp-job_description-wrap">
+											<link href='wp-includes/css/dashicons.min4a41.css?ver=4.8.2' id='dashicons-css' media='all' rel='stylesheet' type='text/css'>
+											<link href='wp-includes/css/editor.min4a41.css?ver=4.8.2' id='editor-buttons-css' media='all' rel='stylesheet' type='text/css'>
+											<div class="wp-editor-container" id="wp-job_description-editor-container">
+												<textarea class="wp-editor-area" cols="40" id="job_description" name="j_description" rows="8"></textarea>
+											</div>
+										</div><small class="description">Please give some information about the job position and about your family.</small>
+									</div>
+								</fieldset>
+								<fieldset class="fieldset-working_statuts">
+									<label for="working_statuts">Preferred Working Status</label>
+									<div class="field required-field">
+										<select class='postform' id='working_statuts' name='j_workingstatus' required="">
+											
+											<option selected disabled>
+												Select status
+											</option>
+											<option  value="Break Contract">
+												Break Contract
+											</option>
+											<option  value="Finished Contract">
+												Finished Contract
+											</option>
+											<option  value="Terminated Due to Relocation/Financial">
+												Terminated Due to Relocation/Financial
+											</option>
+											<option  value="Terminated for Other Reasons">
+												Terminated for Other Reasons
+											</option>
+											<option  value="Transfer">
+												Transfer
+											</option>
+											<option  value="Unemployed">
+												Unemployed
+											</option>
+										</select>
+									</div>
+								</fieldset>
+								<fieldset class="fieldset-helper_requirements">
+									<label for="helper_requirements">Main Duties <small>(optional)</small></label>
+									<div class="field">
+										<ul class="job-manager-term-checklist job-manager-term-checklist-helper_requirements">
+											<li class="popular-category" id='helper_requirement-57'><label class="selectit"><input id="in-helper_requirement-57" name='j_mainduties' type="checkbox" value="Baby Care"> Baby Care</label></li>
+											<li class="popular-category" id='helper_requirement-56'><label class="selectit"><input id="in-helper_requirement-56" name='j_mainduties' type="checkbox" value="Child Care"> Child Care</label></li>
+											<li class="popular-category" id='helper_requirement-54'><label class="selectit"><input id="in-helper_requirement-54" name='j_mainduties' type="checkbox" value="Elder Care"> Elder Care</label></li>
+											<li class="popular-category" id='helper_requirement-180'><label class="selectit"><input id="in-helper_requirement-180" name='j_mainduties' type="checkbox" value="Groceries"> Groceries</label></li>
+											<li class="popular-category" id='helper_requirement-79'><label class="selectit"><input id="in-helper_requirement-79" name='j_mainduties' type="checkbox" value="Housekeeping"> Housekeeping</label></li>
+											<li class="popular-category" id='helper_requirement-53'><label class="selectit"><input id="in-helper_requirement-53" name='j_mainduties' type="checkbox" value="Pet Care"> Pet Care</label></li>
+											<li class="popular-category" id='helper_requirement-91'><label class="selectit"><input id="in-helper_requirement-91" name='j_mainduties' type="checkbox" value="Professional Driver"> Professional Driver</label></li>
+											<li class="popular-category" id='helper_requirement-55'><label class="selectit"><input id="in-helper_requirement-55" name='j_mainduties' type="checkbox" value="Teen Care"> Teen Care</label></li>
 										</ul>
 									</div>
-								</div>
-							</div>
-						</aside>
-					</div>
+								</fieldset>
+								
+								<fieldset class="fieldset-helper_requirements">
+									<label for="helper_requirements">Cooking Skills <small>(optional)</small></label>
+									<div class="field">
+										<ul class="job-manager-term-checklist job-manager-term-checklist-helper_requirements">
+											<li class="popular-category" id='helper_requirement-57'><label class="selectit"><input id="in-helper_requirement-57" name='j_cookingskills' type="checkbox" value="Arabic"> Arabic</label></li>
+											<li class="popular-category" id='helper_requirement-56'><label class="selectit"><input id="in-helper_requirement-56" name='j_cookingskills' type="checkbox" value="Chinese"> Child Care</label></li>
+											<li class="popular-category" id='helper_requirement-54'><label class="selectit"><input id="in-helper_requirement-54" name='j_cookingskills' type="checkbox" value="Indian"> Elder Care</label></li>
+											<li class="popular-category" id='helper_requirement-180'><label class="selectit"><input id="in-helper_requirement-180" name='j_cookingskills' type="checkbox" value="Japanese"> Japanese</label></li>
+											<li class="popular-category" id='helper_requirement-79'><label class="selectit"><input id="in-helper_requirement-79" name='j_cookingskills' type="checkbox" value="Vegetarian"> Vegetarian</label></li>
+											<li class="popular-category" id='helper_requirement-91'><label class="selectit"><input id="in-helper_requirement-91" name='j_cookingskills' type="checkbox" value="Western"> Western</label></li>
+										</ul>
+									</div>
+								</fieldset>
+								<fieldset class="fieldset-other_skills">
+									<label for="other_skills">Other Required Skills <small>(optional)</small></label>
+									<div class="field">
+										<ul class="job-manager-term-checklist job-manager-term-checklist-other_skills">
+											<li class="popular-category" id='other_skill-199'><label class="selectit"><input id="in-other_skill-199" 	name='j_otherskills' type="checkbox" value="Baking"> Baking</label></li>
+											<li class="popular-category" id='other_skill-84'><label class="selectit"><input id="in-other_skill-84" 		name='j_otherskills' type="checkbox" value="Car Wash"> Car Wash</label></li>
+											<li class="popular-category" id='other_skill-245'><label class="selectit"><input id="in-other_skill-245" 	name='j_otherskills' type="checkbox" value="Driving Licence"> Driving Licence</label></li>
+											<li class="popular-category" id='other_skill-189'><label class="selectit"><input id="in-other_skill-189" 	name='j_otherskills' type="checkbox" value="First Aid Certificate"> First Aid Certificate</label></li>
+											<li class="popular-category" id='other_skill-85'><label class="selectit"><input id="in-other_skill-85" 		name='j_otherskills' type="checkbox" value="Gardening"> Gardening</label></li>
+											<li id='other_skill-89'><label class="selectit"><input id="in-other_skill-89" 								name='j_otherskills' type="checkbox" value="Handyman"> Handyman</label></li>
+											<li class="popular-category" id='other_skill-86'><label class="selectit"><input id="in-other_skill-86" 		name='j_otherskills' type="checkbox" value="Housework"> Housework</label></li>
+											<li class="popular-category" id='other_skill-87'><label class="selectit"><input id="in-other_skill-87" 		name='j_otherskills' type="checkbox" value="Sewing"> Sewing</label></li>
+											<li class="popular-category" id='other_skill-200'><label class="selectit"><input id="in-other_skill-200" 	name='j_otherskills' type="checkbox" value="Swimming"> Swimming</label></li>
+											<li class="popular-category" id='other_skill-201'><label class="selectit"><input id="in-other_skill-201" 	name='j_otherskills' type="checkbox" value="Tutoring"> Tutoring</label></li>
+										</ul>
+									</div>
+								</fieldset>
+								<fieldset class="fieldset-candidate_languages2">
+									<label for="candidate_languages2">Required Languages</label>
+									<div class="field required-field">
+										<ul class="job-manager-term-checklist job-manager-term-checklist-candidate_languages2">
+											<li class="popular-category" id='candidate_language2-149'><label class="selectit"><input id="in-candidate_language2-149" name='j_requiredlanguages' type="checkbox" value="Cantonese"> Cantonese</label></li>
+											<li class="popular-category" id='candidate_language2-148'><label class="selectit"><input id="in-candidate_language2-148" name='j_requiredlanguages' type="checkbox" value="English"> English</label></li>
+											<li class="popular-category" id='candidate_language2-152'><label class="selectit"><input id="in-candidate_language2-152" name='j_requiredlanguages' type="checkbox" value="Filipino"> Filipino</label></li>
+											<li class="popular-category" id='candidate_language2-153'><label class="selectit"><input id="in-candidate_language2-153" name='j_requiredlanguages' type="checkbox" value="Indonesian"> Indonesian</label></li>
+											<li id='candidate_language2-154'><label class="selectit"><input id="in-candidate_language2-154" 						 name='j_requiredlanguages' type="checkbox" value="Japanese"> Japanese</label></li>
+											<li class="popular-category" id='candidate_language2-150'><label class="selectit"><input id="in-candidate_language2-150" name='j_requiredlanguages' type="checkbox" value="Mandarin"> Mandarin</label></li>
+											<li id='candidate_language2-168'><label class="selectit"><input id="in-candidate_language2-168" 						 name='j_requiredlanguages' type="checkbox" value="Modern Arabic"> Modern Arabic</label></li>
+											<li id='candidate_language2-151'><label class="selectit"><input id="in-candidate_language2-151"							 name='j_requiredlanguages' type="checkbox" value="Thai"> Thai</label></li>
+										</ul>
+									</div>
+								</fieldset>
+								<fieldset class="fieldset-application">
+									<label for="application">Application Email</label>
+									<div class="field required-field">
+										<input class="jmfe-text-field jmfe-input-text input-text text-application" id="application" name="j_applicationemail" placeholder="Enter your email address" required="" title="" type="text" value="">
+									</div>
+								</fieldset>
+								<h2>Family Details</h2>
+								<fieldset class="fieldset-company_name">
+									<label for="company_name">You are</label>
+									<div class="field required-field">
+										<select class="jmfe-select-field jmfe-input-select input-select select-company_name" id="company_name" name="j_employertype">
+											<option selected disabled>
+												Select category
+											</option>
+											<option value="Direct Employer">
+												Direct Employer
+											</option>
+											<option value="Agency">
+												Agency
+											</option>
+											<option value="Other">
+												Other
+											</option>
+										</select>
+									</div>
+								</fieldset>
+								<fieldset class="fieldset-employer_nationalities">
+									<label for="employer_nationalities">Nationality</label>
+									<div class="field required-field">
+										<select class='postform' id='employer_nationalities' name='j_nationality' required="">
+											<option selected disabled>
+												Select family type
+											</option><option class="level-0" value="American Family">
+												American Family
+											</option>
+											<option class="level-0" value="Australian Family">
+												Australian Family
+											</option>
+											<option class="level-0" value="Belgian Family">
+												Belgian Family
+											</option>
+											<option class="level-0" value="British Family">
+												British Family
+											</option>
+											<option class="level-0" value="Canadian Family">
+												Canadian Family
+											</option>
+											<option class="level-0" value="Chinese Family">
+												Chinese Family
+											</option>
+											<option class="level-0" value="Dutch Family">
+												Dutch Family
+											</option>
+											<option class="level-0" value="Filipino Family">
+												Filipino Family
+											</option>
+											<option class="level-0" value="French Family">
+												French Family
+											</option>
+											<option class="level-0" value="German Family">
+												German Family
+											</option>
+											<option class="level-0" value="Hong Kong Family">
+												Hong Kong Family
+											</option>
+											<option class="level-0" value="Indian Family">
+												Indian Family
+											</option>
+											<option class="level-0" value="Italian Family">
+												Italian Family
+											</option>
+											<option class="level-0" value="Japanese Family">
+												Japanese Family
+											</option>
+											<option class="level-0" value="Korean Family">
+												Korean Family
+											</option>
+											<option class="level-0" value="Middle East Family">
+												Middle East Family
+											</option>
+											<option class="level-0" value="Pakistani Family">
+												Pakistani Family
+											</option>
+											<option class="level-0" value="Russian Family">
+												Russian Family
+											</option>
+											<option class="level-0" value="Singaporean family">
+												Singaporean family
+											</option>
+											<option class="level-0" value="South African Family">
+												South African Family
+											</option>
+											<option class="level-0" value="Spanish Family">
+												Spanish Family
+											</option>
+											<option class="level-0" value="Taiwanese Family">
+												Taiwanese Family
+											</option>
+											<option class="level-0" value="Turkish Family">
+												Turkish Family
+											</option>
+											<option class="level-0" value="Western Family">
+												Western Family
+											</option>
+										</select>
+									</div>
+								</fieldset>
+								<fieldset class="fieldset-family_types">
+									<label for="family_types">Family Type</label>
+									<div class="field required-field">
+										<select class='postform' id='family_types' name='j_familytype' required="">
+											<option selected disabled>
+												Select family type
+											</option>
+											<option class="level-0" value="Couple">
+												Couple
+											</option>
+											<option class="level-0" value="Couple + 1 kid">
+												Couple + 1 kid
+											</option>
+											<option class="level-0" value="Couple + 2 kids">
+												Couple + 2 kids
+											</option>
+											<option class="level-0" value="Couple + 3 kids">
+												Couple + 3 kids
+											</option>
+											<option class="level-0" value="Couple + 4 kids">
+												Couple + 4 kids
+											</option>
+											<option class="level-0" value="Couple + 5 kids">
+												Couple + 5 kids
+											</option>
+											<option class="level-0" value="Couple + Parents">
+												Couple + Parents
+											</option>
+											<option class="level-0" value="Couple with Parents">
+												Couple with Parents
+											</option>
+											<option class="level-0" value="Large Family (&gt; 6)">
+												Large Family (&gt; 6)
+											</option>
+											<option class="level-0" value="Large Family (&gt;6)">
+												Large Family (&gt;6)
+											</option>
+											<option class="level-0" value="Other">
+												Other
+											</option>
+											<option class="level-0" value="Single">
+												Single
+											</option>
+											<option class="level-0" value="Single + 1 kid">
+												Single + 1 kid
+											</option>
+											<option class="level-0" value="Single + 2 kids">
+												Single + 2 kids
+											</option>
+										</select>
+									</div>
+								</fieldset>
+								<fieldset class="fieldset-start_date">
+									<label for="start_date">Start Date</label>
+									<div class="field required-field">
+										<input class="jmfe-date-field jmfe-input-date input-date input-text jmfe-date-picker date-picker-start_date" id="start_date" maxlength="" name="j_startdate" placeholder="" type="text" value=""> <span class="description date-picker-start_date-description"><small class="description">Deadline for applicants to start to work for your family.</small></span>
+									</div><span class="description date-picker-start_date-description"></span>
+								</fieldset>
+								<fieldset class="fieldset-salary_range">
+									<span class="description date-picker-start_date-description"><label for="salary_range">Monthly Salary <small>(optional)</small></label></span>
+									<div class="field">
+										<span class="description date-picker-start_date-description"><input class="jmfe-text-field jmfe-input-text input-text text-salary_range" id="salary_range" name="j_monthlysalary" placeholder="e.g. &quot;HK$5,000&quot;, &quot;Based on experience&quot;..." title="" type="text" value=""></span>
+									</div><span class="description date-picker-start_date-description"></span>
+								</fieldset>
+								<fieldset class="fieldset-company_logo">
+									<span class="description date-picker-start_date-description"><label for="company_logo">Specific Logo <small>(optional)</small></label></span>
+									<div class="field v_originalfield">
+										<span class="description date-picker-start_date-description"><label class="file-field-label" for="company_logo"></label></span>
+										<div class="job-manager-uploaded-files">
+											<span class="description date-picker-start_date-description"><label class="file-field-label" for="company_logo"></label></span>
+										</div><span class="description date-picker-start_date-description"><label class="file-field-label" for="company_logo"><input class="input-text file-company_logo wp-job-manager-file-upload ajax-file-company_logo" data-file_types="jpg|jpeg|png" id="company_logo" name="j_specificlogo" placeholder="" type="file"> <span class="button button--size-medium">Choose Image</span></label> <small class="description file-field-description">A nice logo will be automatically added by your support team - Not required to upload your own logo.</small></span>
+									</div>
+									<div class="field v_customfield">
+										<div class="" style="width:20% !important;">
+											<input id="myCropper" name="slim" type="file">
+										</div><span class="button button--size-medium uploadbutton" style="margin-top: 1em; cursor:pointer;">Choose Image</span> <input class="input-text" name="current_company_logo" type="hidden" value=""> <input class="input-text company_logo" name="company_logo" type="hidden" value=""> <span id="imagename"></span><br>
+										<small class="description">A nice logo will be automatically added by your support team - Not required to upload your own logo.</small>
+									</div>
+								</fieldset>
+								<p><input name="job_manager_form" type="hidden" value="submit-job"> <input name="job_id" type="hidden" value="0"> <input name="step" type="hidden" value="0"> 
+
+								
+								<button name="submit" type="submit">SUBMIT JOB</button>
+								</p>
+								<p class="p1"><em><span class="s1">Don’t forget! A nice description of your family will increase your chances to connect with the best profiles. To check if you like your post, just click on the Submit Job button.&nbsp;</span></em></p>
+							</form>
+							<script type="text/javascript">
+							jQuery(document).ready(function(){
+							jQuery(".uploadbutton").on("click",function(){
+							     jQuery( ".slim-file-hopper" ).trigger( "click" );
+							});
+
+							var supported = Slim.supported;    
+							 
+							 if(supported){
+							      jQuery('.v_originalfield').remove();   
+							jQuery('#myCropper').slim({
+							       crop: {
+							           x: 0,
+							           y: 0,
+							           width: 100,
+							           height: 100
+							       },
+							       size:{
+							         width: 320,
+							         height: 320,  
+							       },
+							       push: "true",
+							       service: ajaxurl,
+							       download: false,
+							       label: '',
+							       buttonConfirmLabel: 'Ok',
+							       ratio:'1:1',
+							       didUpload:function(err, data, res) {
+							           if(res.status === "success" ){
+							             jQuery('.slim').show();
+							             jQuery('#imagename').attr("data-imagename",res.name);
+							             jQuery('input[name="current_company_logo"]').val(res.url);
+							             jQuery('input[name="company_logo"]').val(res.url);
+							             jQuery('.uploadbutton').hide();
+							           }
+							        },
+							        didRemove:function(data){
+							           var name = jQuery('#imagename').attr('data-imagename'); 
+							           jQuery('input[name="current_company_logo"]').val("");
+							           jQuery('input[name="company_logo"]').val("");
+							           jQuery('#imagename').attr("data-imagename",'');
+							             var url = ajaxurl;
+							             var xhr = new XMLHttpRequest();
+							             xhr.open('GET.html', url+ '?action=custom_file_remove&name=' + name, true);
+							             xhr.send();
+							             jQuery('.uploadbutton').show();
+							             jQuery('.slim').hide();
+							        },
+							        willSave:function(data, ready){
+							           var name = jQuery('#imagename').attr('data-imagename'); 
+							           if(name != "" && name != null && name != 'undefined'){
+							             jQuery('#imagename').attr("data-imagename",'');
+							             var url = ajaxurl;
+							             var xhr = new XMLHttpRequest();
+							             xhr.open('GET.html', url+ '?action=custom_file_remove&name=' + name, true);
+							             xhr.send();
+							         }
+							         ready(data);
+							        }
+							     }); 
+							 }else{
+							    jQuery('.v_customfield').remove();
+							 }
+							 jQuery('.slim').hide();
+							});
+							</script>
+						</div>
+					</article>
 				</div>
-				<div class="job-overview-content row">
-					<div class="job_listing-description job-overview col-md-12 col-sm-12" itemprop="description">
-						<h2 class="widget-title widget-title--job_listing-top job-overview-title">Overview</h2>
-						<p>We are a family of 3, husband and wife are working professionals with a newborn baby (2 months old). We are looking for a second helper to cook and clean for us while our current helper cares for the baby.</p>
-						<p>what we offer:</p>
-						<ul>
-							<li>location: hk island east side</li>
-							<li>size of flat: about 800 sq ft</li>
-							<li>yearly bonus on good performance</li>
-							<li>Saturday or Sunday off (alternate with current helper)</li>
-							<li>we are a kind and simple family</li>
-						</ul>
-						<p>our requirements:</p>
-						<ul>
-							<li>finished contract or termination due to employer relocation</li>
-							<li>references required</li>
-							<li>experience with Chinese cooking preferred as we eat mainly chinese food</li>
-							<li>experience with caring for newborn baby preferred</li>
-							<li>kind, honest and hygienic</li>
-							<li>to start work as soon as possible, but we are willing to wait for the suitable candidate, including overseas applicants</li>
-						</ul>
-						<p class="job_tags">Tagged as: Baby care, Cooking, Housekeeping</p>
-						<div class='col-sm-3 helperoverview'>
-							<div class="jmfe-custom-field-wrap jmfe-custom-field-multi-label" id="jmfe-wrap-working_statuts-multi-label">
-								<strong class="jmfe-custom-field-label" id="jmfe-label-working_statuts">Preferred Working Status:</strong>
-							</div>
-							<ul class="jmfe-custom-field-wrap" id="jmfe-wrap-working_statuts">
-								<li class="jmfe-custom-field" id="jmfe-custom-working_statuts">Finished Contract</li>
-							</ul>
-						</div>
-						<div class='clearfix'></div>
-						<div class='col-sm-3 helperoverview'>
-							<div class="jmfe-custom-field-wrap jmfe-custom-field-multi-label" id="jmfe-wrap-other_skills-multi-label">
-								<strong class="jmfe-custom-field-label" id="jmfe-label-other_skills">Other Required Skills:</strong>
-							</div>
-							<ul class="jmfe-custom-field-wrap" id="jmfe-wrap-other_skills">
-								<li class="jmfe-custom-field" id="jmfe-custom-other_skills">Housework</li>
-							</ul>
-						</div>
-						<div class='clearfix'></div>
-						<div class='col-sm-3 helperoverview'>
-							<div class="jmfe-custom-field-wrap jmfe-custom-field-multi-label" id="jmfe-wrap-cooking_requirements-multi-label">
-								<strong class="jmfe-custom-field-label" id="jmfe-label-cooking_requirements">Cooking Skills:</strong>
-							</div>
-							<ul class="jmfe-custom-field-wrap" id="jmfe-wrap-cooking_requirements">
-								<li class="jmfe-custom-field" id="jmfe-custom-cooking_requirements">Chinese</li>
-							</ul>
-						</div>
-						<div class='clearfix'></div>
-						<div class='col-sm-3 helperoverview'>
-							<div class="jmfe-custom-field-wrap jmfe-custom-field-multi-label" id="jmfe-wrap-helper_requirements-multi-label">
-								<strong class="jmfe-custom-field-label" id="jmfe-label-helper_requirements">Main Duties:</strong>
-							</div>
-							<ul class="jmfe-custom-field-wrap" id="jmfe-wrap-helper_requirements">
-								<li class="jmfe-custom-field" id="jmfe-custom-helper_requirements">Baby Care</li>
-								<li class="jmfe-custom-field" id="jmfe-custom-helper_requirements">Groceries</li>
-								<li class="jmfe-custom-field" id="jmfe-custom-helper_requirements">Housekeeping</li>
-							</ul>
-						</div>
-						<div class='clearfix'></div><strong class="jmfe-custom-field-label" id="jmfe-label-salary_range">Monthly Salary:</strong>
-						<p class="jmfe-custom-field" id="jmfe-custom-salary_range">HK$4,410 with yearly bonus and increment based on performance</p>
-					</div>
-				</div>
-				<p class="job-manager-single-alert-link"><a href="https://www.helperplace.com/candidate-dashboard?action=add_alert&#038;alert_name=Looking+for+helper+who+is+finishing+contract&#038;alert_job_type%5B0%5D=full-time&#038;alert_location=Hong+Kong&#038;alert_cats%5B0%5D=36&#038;alert_keyword=Looking+for+helper+who+is+finishing+contract&#038;alert_region=35">Alert me to jobs like this</a></p>
-			</div>
-			<div class="related-jobs container">
-				<h3 class="widget-title widget--title-job_listing-top">Related Jobs</h3>
-				<ul class="job_listings related">
-					<li class="post-100027753 job_listing type-job_listing status-publish has-post-thumbnail hentry job_listing_region-hong-kong job_listing_category-helper job_listing_type-full-time job_listing_tag-child-care job_listing_tag-cooking job_listing_tag-housekeeping candidate_language2-cantonese candidate_language2-english cooking_requirement-chinese cooking_requirement-western employer_nationality-british-family family_type-couple-2-kids helper_requirement-child-care helper_requirement-groceries helper_requirement-housekeeping other_skill-car-wash other_skill-driving-licence working_statut-finished-contract job-type-full-time" data-href="https://www.helperplace.com/job/direct-employer-ap-lei-chau-hong-kong-2-british-family-looking-for-domestic-helper" data-latitude="22.2418581" data-longitude="114.1528532" data-title="British family looking for Domestic Helper at Direct Employer" id="job_listing-100027753">
-						<a class="job_listing-clickbox" href="https://www.helperplace.com/job/direct-employer-ap-lei-chau-hong-kong-2-british-family-looking-for-domestic-helper"></a>
-						<div class="job_listing-logo"><img alt="Direct Employer" class="company_logo" src="https://i1.wp.com/www.helperplace.com/wp-content/uploads/2016/08/Family-of-4-western-1.jpg?resize=150%2C150&amp;ssl=1"></div>
-						<div class="job_listing-about">
-							<div class="job_listing-position job_listing__column">
-								<h3 class="job_listing-title">British family looking for Domestic Helper</h3>
-								<div class="job_listing-company">
-									<strong>Direct Employer</strong>
-								</div>
-							</div>
-							<div class="job_listing-location job_listing__column">
-								<a href="https://www.helperplace.com/job-region/hong-kong" rel="tag">Hong Kong</a>
-							</div>
-							<ul class="job_listing-meta job_listing__column">
-								<li class="job_listing-type job-type full-time">Full Time</li>
-								<li class="job_listing-date">1 month ago</li>
-							</ul>
-						</div>
-					</li>
-					<li class="post-100052052 job_listing type-job_listing status-publish has-post-thumbnail hentry job_listing_region-hong-kong job_listing_category-helper job_listing_type-full-time job_listing_tag-child-care job_listing_tag-cooking job_listing_tag-housekeeping candidate_language2-english cooking_requirement-vegeterian employer_nationality-indian-family family_type-couple-2-kids helper_requirement-child-care helper_requirement-housekeeping other_skill-housework working_statut-finished-contract job-type-full-time" data-href="https://www.helperplace.com/job/direct-employer-tung-chung-2-indian-friendly-family-looking-for-helper" data-latitude="22.2873743" data-longitude="113.9425086" data-title="Indian friendly family looking for helper at Direct Employer" id="job_listing-100052052">
-						<a class="job_listing-clickbox" href="https://www.helperplace.com/job/direct-employer-tung-chung-2-indian-friendly-family-looking-for-helper"></a>
-						<div class="job_listing-logo"><img alt="Direct Employer" class="company_logo" src="https://i0.wp.com/www.helperplace.com/wp-content/uploads/2016/08/Family-in-Singapore.jpg?resize=150%2C150&amp;ssl=1"></div>
-						<div class="job_listing-about">
-							<div class="job_listing-position job_listing__column">
-								<h3 class="job_listing-title">Indian friendly family looking for helper</h3>
-								<div class="job_listing-company">
-									<strong>Direct Employer</strong>
-								</div>
-							</div>
-							<div class="job_listing-location job_listing__column">
-								<a href="https://www.helperplace.com/job-region/hong-kong" rel="tag">Hong Kong</a>
-							</div>
-							<ul class="job_listing-meta job_listing__column">
-								<li class="job_listing-type job-type full-time">Full Time</li>
-								<li class="job_listing-date">7 days ago</li>
-							</ul>
-						</div>
-					</li>
-					<li class="post-100047917 job_listing type-job_listing status-publish has-post-thumbnail hentry job_listing_region-hong-kong job_listing_category-helper job_listing_type-full-time job_listing_tag-baby-care job_listing_tag-cooking job_listing_tag-housekeeping candidate_language2-english cooking_requirement-vegeterian cooking_requirement-western employer_nationality-italian-family family_type-couple helper_requirement-baby-care helper_requirement-groceries helper_requirement-housekeeping helper_requirement-pet-care other_skill-baking other_skill-housework working_statut-finished-contract job-type-full-time" data-href="https://www.helperplace.com/job/direct-employer-south-lantau-hong-kong-2-domestic-helper" data-latitude="22.2363509" data-longitude="113.9510952" data-title="Looking for Domestic Helper at Direct Employer" id="job_listing-100047917">
-						<a class="job_listing-clickbox" href="https://www.helperplace.com/job/direct-employer-south-lantau-hong-kong-2-domestic-helper"></a>
-						<div class="job_listing-logo"><img alt="Direct Employer" class="company_logo" src="https://i2.wp.com/www.helperplace.com/wp-content/uploads/2017/02/Couple.jpg?resize=150%2C150&amp;ssl=1"></div>
-						<div class="job_listing-about">
-							<div class="job_listing-position job_listing__column">
-								<h3 class="job_listing-title">Looking for Domestic Helper</h3>
-								<div class="job_listing-company">
-									<strong>Direct Employer</strong>
-								</div>
-							</div>
-							<div class="job_listing-location job_listing__column">
-								<a href="https://www.helperplace.com/job-region/hong-kong" rel="tag">Hong Kong</a>
-							</div>
-							<ul class="job_listing-meta job_listing__column">
-								<li class="job_listing-type job-type full-time">Full Time</li>
-								<li class="job_listing-date">4 weeks ago</li>
-							</ul>
-						</div>
-					</li>
-				</ul>
 			</div>
 		</div>
-		<div class='jp-relatedposts' id='jp-relatedposts'></div>
 	</div>

@@ -340,5 +340,42 @@ function submit_profile()
 			}
 		
 }
+function search_job()
+{
+	global $connection;
+	$search_job_query="SELECT * from job_description";
+    $search_job_result=mysqli_query($connection,$search_job_query);
+
+    while($row=mysqli_fetch_assoc($search_job_result))
+    {
+        $jobid=$row['j_id'];
+        $jobtitle=$row['j_jobtitle'];
+        $employertype=$row['j_employertype'];
+        $joblocation=$row['j_country'];
+        $jobtype=$row['j_type'];
+        $dateposted=$row['j_dateposted'];
+
+        echo "<li id='job_listing-100053756' class='post-100053756 job_listing type-job_listing status-publish has-post-thumbnail hentry job_listing_region-hong-kong job_listing_category-helper job_listing_type-full-time job_listing_tag-baby-care job_listing_tag-cooking job_listing_tag-housekeeping candidate_language2-english employer_nationality-chinese-family family_type-couple-1-kid working_statut-any-situation job-type-full-time' data-title='Looking for a helper to start right away at Direct Employer' data-href='https://www.helperplace.com/job/direct-employer-2-looking-for-a-helper-to-start-right-away' style='visibility: visible;'>";
+        echo "<br>";
+        echo "<a href='index.php?jobid=".$jobid."' class='job_listing-clickbox'></a>";
+        echo "<div class='job_listing-about'>";
+        echo "<div class='job_listing-position job_listing__column'>";
+        echo "<h3 class='job_listing-title'>".$jobtitle."</h3>";
+        echo "<div class='job_listing-company'>";
+        echo "<strong>".$employertype."</strong>  ";
+        echo "</div>";
+        echo "</div>";
+        echo "<div class='job_listing-location job_listing__column'>";   
+        echo $joblocation;                   
+        echo "</div>";
+        echo "<ul class='job_listing-meta job_listing__column'>";
+        echo "<li class='job_listing-type job-type full-time'>".$jobtype."</li>";
+        echo "<li class='job_listing-date'>".$dateposted."</li>";
+        echo "</ul>";
+        echo "</div>";                          
+        echo "</li>";
+
+    }
+}
 
  ?>

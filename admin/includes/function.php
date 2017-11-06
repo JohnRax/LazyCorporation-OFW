@@ -48,7 +48,7 @@ function view_jobs()
     	$districtlocation=$row['j_districtlocation'];
     	$type=$row['j_type'];
     	$category=$row['j_category'];
-    	$tags=$row['j_tags'];
+    
     	$description=$row['j_description'];
     	$workingstatus=$row['j_workingstatus'];
     	$mainduties=$row['j_mainduties'];
@@ -70,7 +70,7 @@ function view_jobs()
     	echo "<td>".$districtlocation."</td>";
     	echo "<td>".$type."</td>";
     	echo "<td>".$category."</td>";
-    	echo "<td>".$tags."</td>";
+    	
     	echo "<td>".$description."</td>";
     	echo "<td>".$workingstatus."</td>";
     	echo "<td>".$mainduties."</td>";
