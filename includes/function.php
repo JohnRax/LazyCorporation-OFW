@@ -30,6 +30,7 @@ function register_user()
 										  )";
 				if(mysqli_query($connection,$insert_user_query))
 				{
+					
 					$id=mysqli_insert_id($connection);				
 					$insert_userdetails_query="INSERT INTO user_details (u_id, u_lname, u_fname, u_gender) 
 											VALUES(
@@ -45,7 +46,17 @@ function register_user()
 					}
 					else
 					{
-						echo "REGISTRATION COMPLETE";
+						$_SESSION['u_id']=$id;
+						$_SESSION['u_username']=$username;
+						$_SESSION['u_role']=$role;
+						if($role=="employer")
+						{
+							header("Location:index-employer.php");
+						}
+						else
+						{
+							header("Location:index-candidate.php");
+						}
 					}
 				}
 				else
@@ -364,8 +375,8 @@ function search_job()
         echo "<div class='job_listing-company'>";
         echo "<strong>".$employertype."</strong>  ";
         echo "</div>";
-        echo "</div>";
-        echo "<div class='job_listing-location job_listing__column'>";   
+        echo "</div>"
+;        echo "<div class='job_listing-location job_listing__column'>";   
         echo $joblocation;                   
         echo "</div>";
         echo "<ul class='job_listing-meta job_listing__column'>";

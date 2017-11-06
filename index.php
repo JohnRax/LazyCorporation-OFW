@@ -4,6 +4,19 @@
 <?php include "includes/navigation.php" ?>
 <?php include "includes/function.php" ?>
 <?php 
+	session_start();
+	if(isset($_SESSION['u_role']))
+	{
+		if($_SESSION['u_role']=="employer")
+		{
+			header("Location:index-employer.php");
+		}
+		else
+		{
+			header("Location:index-candidate.php");
+		}
+	}
+	
 
 	if (isset($_GET['source'])) {
 

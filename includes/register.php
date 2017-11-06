@@ -4,7 +4,10 @@
 			<h1 class="page-title">Register</h1>
 		</header>
 		
-		<?php echo register_user(); ?>
+		<?php
+		session_start();
+		 echo register_user(); 
+		 ?>
 
 		<div class="content-area container" id="primary" role="main">
 			<article class="post-99991258 page type-page status-publish hentry" id="post-99991258">
