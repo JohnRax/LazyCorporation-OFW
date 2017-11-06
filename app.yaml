@@ -11,6 +11,9 @@ handlers:
 - url: /(.+\.css)$
   script: \1
   
+- url: /(.+\.js)$
+  script: \1
+  
   
 # Serve php scripts.
 - url: /(.+\.php)$
