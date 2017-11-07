@@ -5,6 +5,9 @@ function register_user()
 	global $connection;
 	if (isset($_POST['submit'])) 
 			{
+
+				
+
 				$firstname=$_POST['u_fname'];
 				$lastname=$_POST['u_lname'];
 				$username=$_POST['u_username'];
@@ -236,6 +239,19 @@ function submit_profile()
 	global $connection;
 	if (isset($_POST['submit'])) 
 			{
+
+				if( isset($_POST['up_languages']) && !empty($_POST['up_languages']) ) 
+				{ 
+				    $languages = implode(', ', $_POST['up_languages']);
+				   
+				}
+				else
+				{
+					$languages="none";
+				}
+
+			
+
 				$u_id=$_SESSION['u_id'];
 				$resumecategory=$_POST['up_category'];
 				$upemail=$_POST['up_email'];
@@ -246,11 +262,9 @@ function submit_profile()
 				$mobile=$_POST['up_mobile'];
 				$telephone=$_POST['up_telephone'];
 				$children=$_POST['up_children'];
-				$languages=$_POST['up_languages'];
 				$picture=$_POST['up_picture'];
 				$preferedworklocation=$_POST['upi_preferedworklocation'];
 				$professionaltitle=$_POST['upi_professionaltitle'];
-				
 				$yearsofexp=$_POST['upi_yearsofexp'];
 				$expsummary=$_POST['upi_expsummary'];
 				$cookingskills=$_POST['upi_cookingskills'];

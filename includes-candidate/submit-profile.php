@@ -222,13 +222,27 @@
 									<label for="candidate_languages">Select all your spoken languages</label>
 									<div class="field">
 										<ul class="job-manager-term-checklist job-manager-term-checklist-candidate_languages">
-											<li class="popular-category" id='candidate_language-145'><label class="selectit"><input id="in-candidate_language-145" name='up_languages' type="checkbox" value="145"> Arabic</label></li>
-											<li class="popular-category" id='candidate_language-140'><label class="selectit"><input id="in-candidate_language-140" name='up_languages' type="checkbox" value="140"> Cantonese</label></li>
-											<li class="popular-category" id='candidate_language-139'><label class="selectit"><input id="in-candidate_language-139" name='up_languages' type="checkbox" value="139"> English</label></li>
-											<li class="popular-category" id='candidate_language-144'><label class="selectit"><input id="in-candidate_language-144" name='up_languages' type="checkbox" value="144"> Filipino</label></li>
-											<li class="popular-category" id='candidate_language-142'><label class="selectit"><input id="in-candidate_language-142" name='up_languages' type="checkbox" value="142"> Japanese</label></li>
-											<li class="popular-category" id='candidate_language-141'><label class="selectit"><input id="in-candidate_language-141" name='up_languages' type="checkbox" value="141"> Mandarin</label></li>
-											<li id='candidate_language-143'><label class="selectit"><input id="in-candidate_language-143" name="tax_input[candidate_language][]" type="checkbox" value="143"> Thai</label></li>
+											<li class="popular-category" id='candidate_language-145'><label class="selectit">
+
+											<input  name="up_languages[]" type="checkbox" value="Arabic"> Arabic</label></li>
+											<li class="popular-category" id='candidate_language-140'><label class="selectit">
+
+											<input  name="up_languages[]" type="checkbox" value="Cantonese"> Cantonese</label></li>
+											<li class="popular-category" id='candidate_language-139'><label class="selectit">
+
+											<input  name="up_languages[]" type="checkbox" value="English"> English</label></li>
+											<li class="popular-category" id='candidate_language-144'><label class="selectit">
+
+											<input  name="up_languages[]" type="checkbox" value="Filipino"> Filipino</label></li>
+											<li class="popular-category" id='candidate_language-142'><label class="selectit">
+
+											<input  name="up_languages[]" type="checkbox" value="Japanese"> Japanese</label></li>
+											<li class="popular-category" id='candidate_language-141'><label class="selectit">
+
+											<input name="up_languages[]" type="checkbox" value="Mandarin"> Mandarin</label></li>
+											<li id='candidate_language-143'><label class="selectit">
+
+											<input name="up_languages[]" type="checkbox" value="Thai"> Thai</label></li>
 										</ul>
 									</div>
 								</fieldset>
