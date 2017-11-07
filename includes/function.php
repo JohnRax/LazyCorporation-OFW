@@ -479,7 +479,7 @@ FROM
 				</div>
 			</div>
 			<div class='v_resume_location resume-location resume__column'>
-				<span class='candidate-location'>Hong Kong</span> <span class='total_exp'>>".$yearsofexp."</span>
+				<span class='candidate-location'>Hong Kong</span> <span class='total_exp'>".$yearsofexp." Year(s) of Experience</span>
 			</div>
 			<ul class='resume-meta resume__column'>
 				<li class='resume-category'>Domestic Helper</li>
