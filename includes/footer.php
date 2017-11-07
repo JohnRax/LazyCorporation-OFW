@@ -83,7 +83,7 @@
 		<div class="copyright">
 			<div class="container">
 				<div class="site-info">
-					&copy; 2017 LazzyWorkers &mdash; All Rights Reserved
+					&copy; 2017 LazzyWorks &mdash; All Rights Reserved
 				</div>
 				<div class="footer-social">
 					<a href="http://facebook.com/"><span class="screen-reader-text">Facebook</span></a> <a href="http://twitter.com/"><span class="screen-reader-text">Twitter</span></a> <a href="GOOGLE.COM"><span class="screen-reader-text">Google Plus</span></a> <a href="http://instagram.com/"><span class="screen-reader-text">Instagram</span></a> <a href="https://www.pinterest.com/"><span class="screen-reader-text">Pinterest</span></a> <a href="https://www.youtube.com"><span class="screen-reader-text">Youtube</span></a> <a href="https://www.linkedin.com/"><span class="screen-reader-text">Linkedin</span></a>
