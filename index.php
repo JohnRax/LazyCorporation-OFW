@@ -1,10 +1,11 @@
-<?php ob_start();?>
+<?php ob_start();
+session_start();?>
 <?php include "includes/connection.php" ?>
 <?php include "includes/header.php" ?>
 <?php include "includes/navigation.php" ?>
 <?php include "includes/function.php" ?>
 <?php 
-	session_start();
+	
 	if(isset($_SESSION['u_role']))
 	{
 		if($_SESSION['u_role']=="employer")
@@ -16,7 +17,7 @@
 			header("Location:index-candidate.php");
 		}
 	}
-	session_destroy();
+
 
 	
 	if (isset($_GET['source'])) {

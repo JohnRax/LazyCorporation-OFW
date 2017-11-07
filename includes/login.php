@@ -4,7 +4,7 @@
 			<h1 class="page-title">Login</h1>
 		</header>
 		<?php 	
-			session_start();
+			
 			echo login_user();
 		 ?>
 		<div class="content-area container" id="primary" role="main">

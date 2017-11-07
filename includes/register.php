@@ -5,7 +5,7 @@
 		</header>
 		
 		<?php
-		session_start();
+	
 		 echo register_user(); 
 		 ?>
 
