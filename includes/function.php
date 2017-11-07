@@ -127,7 +127,9 @@ function login_user()
 				}
 				else
 				{
-					echo "WRONG PASSWORD/USERNAME";
+					echo"<script>
+							alert('Your credentials are incorrect');
+						</script>";
 				}
 				
 			}
