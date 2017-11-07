@@ -2,13 +2,11 @@
 	<div class="hfeed site" id="page">
 		<header class="site-header" id="masthead" role="banner">
 			<div class="container">
-				<a class="site-branding" href="index.php" rel="home" title="HelperPlace"><span class="site-title"><img alt="" height="44" src="wp-content/uploads/2016/07/cropped-HelperPlace2.png" width="200"> <span>HelperPlace</span></span>
+				<a class="site-branding" href="index.php" rel="home" title="HelperPlace"><span class="site-title"><img alt="" height="30" src="wp-content/uploads/2016/07/250x88.png" width="200"> <span>HelperPlace</span></span>
 				<h2 class="site-description">Looking for the best helpers in Hong Kong?</h2></a>
 				<nav class="site-primary-navigation" id="site-navigation">
 					<a class="js-primary-menu-toggle primary-menu-toggle primary-menu-toggle--close" href="#site-navigation">Close</a>
-					<form action="https://www.helperplace.com/" class="searchform searchform--header" id="searchform" method="get" name="searchform" role="search">
-						<label class="screen-reader-text" for="s">Search for:</label> <input class="searchform__input searchform--header__input" id="s" name="s" placeholder="Keywords..." type="text" value=""> <button class="searchform__submit searchform--header__submit" id="searchsubmit" type="submit"><span class="screen-reader-text">Search</span></button>
-					</form>
+					
 					<div class="nav-menu nav-menu--primary">
 						<ul class="nav-menu nav-menu--primary" id="menu-main-menu">
 							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-99991208" id="menu-item-99991208">

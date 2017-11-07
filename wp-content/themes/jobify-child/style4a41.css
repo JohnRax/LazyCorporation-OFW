@@ -25,15 +25,11 @@ Template: jobify
 
 @font-face {
   font-family: 'helperplace';
-  src:  url('fonts/helperplace3ff8.eot?o89ijo');
-  src:  url('fonts/helperplace3ff8.eot?o89ijo#iefix') format('embedded-opentype'),
-    url('fonts/helperplace3ff8.ttf?o89ijo') format('truetype'),
-    url('fonts/helperplace3ff8.woff?o89ijo') format('woff'),
-    url('fonts/helperplace3ff8.svg?o89ijo#helperplace') format('svg');
+  src: url('fonts/helperplace3ff8.eot?o89ijo');
+  src: url('fonts/helperplace3ff8.eot?o89ijo#iefix') format('embedded-opentype'), url('fonts/helperplace3ff8.ttf?o89ijo') format('truetype'), url('fonts/helperplace3ff8.woff?o89ijo') format('woff'), url('fonts/helperplace3ff8.svg?o89ijo#helperplace') format('svg');
   font-weight: normal;
   font-style: normal;
 }
-
 [class^="helperplace"], [class*=" helperplace"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'helperplace' !important;
@@ -43,12 +39,10 @@ Template: jobify
   font-variant: normal;
   text-transform: none;
   line-height: 1;
-
   /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
 .helperplacecooking-skills:before {
   content: "\e900";
 }
@@ -61,156 +55,515 @@ Template: jobify
 .helperplacework-status:before {
   content: "\e903";
 }
-
- .helperoverview ul li,.resume_types{list-style:none}.page-header{font:400 38px/normal 'Varela Round',sans-serif;color:#595959;text-align:center;overflow:hidden;padding:20px 0;background-image:url(../../uploads/2016/08/Font.png);border-bottom:1px solid rgba(204,204,204,.41)}.page-header.has-image{padding:0;border:0;max-height:400px;overflow:hidden}.page-header.has-image img{min-width:100%;width:auto;height:auto;display:block}.callout-container{border:1px solid #ccc;border-radius:6px;background-color:rgba(218,220,156,.17);padding:30px}.callout-container p:last-child{margin-bottom:0}.callout-container div[class^=col-]{display:inline-block;vertical-align:middle;float:none}@media screen and (min-width:1200px){.nav-menu--primary li,ul.nav-menu--primary li{display:inline-block;position:relative}.nav-menu--primary li:hover>.children,.nav-menu--primary li:hover>.sub-menu,ul.nav-menu--primary li:hover>.children,ul.nav-menu--primary li:hover>.sub-menu{display:block}.nav-menu--primary a,ul.nav-menu--primary a{font-size:15px;vertical-align:middle;color:#fff;margin:2px 0;padding:8px 14px;display:block;border:2px solid transparent}.nav-menu--primary .menu-item-has-children>a:after,ul.nav-menu--primary .menu-item-has-children>a:after{content:"";color:#A53535}.nav-menu--primary .sub-menu .menu-item-has-children>a:after,ul.nav-menu--primary .sub-menu .menu-item-has-children>a:after{content:'';margin:0}.nav-menu--primary .sub-menu .menu-item-has-children>a:before,ul.nav-menu--primary .sub-menu .menu-item-has-children>a:before{content:"";margin-right:5px}}#submit-resume-form>fieldset:nth-child(1){display:none!important}.job_filters .search_resumes .filter_by_tag a.active{color:#1b82e2}.job_filters .search_resumes .filter_by_tag a{margin:0 -1px 6px;display:inline-block}.resume_filter{width:11%;float:left;margin-top:4px;margin-right:7px}.resume_filter_content{width:87%;float:left}.search_jobs,.search_resumes{padding:30px 30px 25px!important}#text-9 .textwidget a{padding:14px 24px;background-color:#1b82e2;border-color:transparent;color:#fff;border-radius:4px;border-style:solid;border-width:2px;display:inline-block;font:700 15px Montserrat,sans-serif;text-align:center;text-transform:uppercase;transition:all .3s ease 0s;text-decoration:none}#text-9 .textwidget a:hover{background-color:transparent;border-color:#1b82e2;color:#1b82e2;text-decoration:none}.ui-datepicker-buttonpane.ui-widget-content{display:none}.job_listing-location,.job_listing-meta,.resume-location,.resume-meta,.resume_listing-location{width:23%!important}.single_job_listing .job-overview-content .job_listing-description.job-overview{float:left;width:100%}.job-manager-single-alert-link{margin:0 0 0 20px}@media only screen and (max-width:767px){.job-manager-single-alert-link a{margin-top:20px}}@media only screen and (max-width:991px){.job_listing-location,.resume-location,.resume_listing-location{width:100%!important;text-align:left!important}}@media only screen and (max-width:1200px){.job_listing-meta,.resume-meta{width:100%!important;text-align:left!important}}.resume-meta-top~.resume-overview-content .resume-info{padding-top:0!important}.resume-meta-top~.resume-overview-content .resume-info h2{padding-top:2em!important}.helperoverview ul{padding:0 0 0 5px!important}.helperoverview{padding-left:0!important}#jmfe_widget-8 .widgettitle{font-size:23px;font-weight:400;margin-top:0!important;margin-bottom:10px!important}#jmfe_widget-8{padding-bottom:0!important;border-bottom:none!important}.resume_types{margin:0;padding:0;border:1px solid #ccc;border-width:0 1px}.resume_types li{float:left;padding:20px;font:700 12px/normal Montserrat,sans-serif;text-align:center;text-transform:uppercase;border-bottom:1px solid #ccc;width:100%}.resume_types::after{clear:both}.resume_types::after,.resume_types::before{content:"";display:table}.resume_types li:last-child{border-bottom:0}@media screen and (min-width:768px){.resume_types li{border:1px solid #ccc;border-width:0 1px 1px 0;width:50%;float:left}.resume_types li:last-child,.resume_types li:nth-child(3n){border-bottom:0}.resume_types li:nth-child(2n){border-right:0}}@media screen and (min-width:992px){.resume_types li{border-width:0 1px 0 0;width:auto}.resume_types li:nth-child(2n){border-right:1px solid #ccc}}     
-.ui-datepicker .ui-datepicker-next { top:4px !important;  right:1px !important; }.v_image_right{width:16%;float:left;color:#000;font-weight:700;font-size:25px;position:relative;top:41px}.v_image_left{width:84%;float:left}.v_image_left img{max-width:95%!important; /*margin-left:5px;*/}.v_image_left li{list-style:none!important;float:left}@media screen and (min-width:768px) and (max-width:1320px){.v_image_left,.v_image_right{width:100%!important}.v_image_right{position:inherit;text-align:center}.v_image_left ul{padding:0 ;}.v_image_left li{width:33%}.v_image_left li:first-child{margin-left:5px;padding:0}}@media screen and (max-width:767px){.v_image_left,.v_image_right{width:100%!important;text-align:center}.v_image_right{position:inherit}.v_image_left li,.v_image_left ul{width:100%;margin-bottom:15px}.v_image_left ul{padding:0;}} 
-.ui-datepicker .ui-datepicker-prev { top:4px !important; left:1px !important;}
-.page.page-id-99991327 .callout-feature-title, .page.page-id-99991592 .callout-feature-title { font-size:48px !important; font-weight: 400 !important; }
-.chosen-container-single .chosen-single { font-family: 'Varela Round',sans-serif !important;}
-
-span.resume-location.candidate-location {
-    width: 100% !important;
-    text-align: center;
+.helperoverview ul li, .resume_types {
+  list-style: none
+}
+.page-header {
+  font: 400 38px/normal 'Varela Round', sans-serif;
+  color: #595959;
+  text-align: center;
+  overflow: hidden;
+  padding: 20px 0;
+  background-image: url(../../uploads/2016/08/Font.png);
+  border-bottom: 1px solid rgba(204, 204, 204, .41)
+}
+.page-header.has-image {
+  padding: 0;
+  border: 0;
+  max-height: 400px;
+  overflow: hidden
+}
+.page-header.has-image img {
+  min-width: 100%;
+  width: auto;
+  height: auto;
+  display: block
+}
+.callout-container {
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background-color: rgba(218, 220, 156, .17);
+  padding: 30px
+}
+.callout-container p:last-child {
+  margin-bottom: 0
+}
+.callout-container div[class^=col-] {
+  display: inline-block;
+  vertical-align: middle;
+  float: none
+}
+@media screen and (min-width:1200px) {
+  .nav-menu--primary li, ul.nav-menu--primary li {
     display: inline-block;
+    position: relative
+  }
+  .nav-menu--primary li:hover>.children, .nav-menu--primary li:hover>.sub-menu, ul.nav-menu--primary li:hover>.children, ul.nav-menu--primary li:hover>.sub-menu {
+    display: block
+  }
+  .nav-menu--primary a, ul.nav-menu--primary a {
+    font-size: 15px;
+    vertical-align: middle;
+    color: #fff;
+    margin: 2px 0;
+    padding: 8px 14px;
+    display: block;
+    border: 2px solid transparent
+  }
+  .nav-menu--primary .menu-item-has-children>a:after, ul.nav-menu--primary .menu-item-has-children>a:after {
+    content: "";
+    color: #33aabb
+  }
+  .nav-menu--primary .sub-menu .menu-item-has-children>a:after, ul.nav-menu--primary .sub-menu .menu-item-has-children>a:after {
+    content: '';
+    margin: 0
+  }
+  .nav-menu--primary .sub-menu .menu-item-has-children>a:before, ul.nav-menu--primary .sub-menu .menu-item-has-children>a:before {
+    content: "";
+    margin-right: 5px
+  }
 }
-
+#submit-resume-form>fieldset:nth-child(1) {
+  display: none!important
+}
+.job_filters .search_resumes .filter_by_tag a.active {
+  color: #1b82e2
+}
+.job_filters .search_resumes .filter_by_tag a {
+  margin: 0 -1px 6px;
+  display: inline-block
+}
+.resume_filter {
+  width: 11%;
+  float: left;
+  margin-top: 4px;
+  margin-right: 7px
+}
+.resume_filter_content {
+  width: 87%;
+  float: left
+}
+.search_jobs, .search_resumes {
+  padding: 30px 30px 25px!important
+}
+#text-9 .textwidget a {
+  padding: 14px 24px;
+  background-color: #1b82e2;
+  border-color: transparent;
+  color: #fff;
+  border-radius: 4px;
+  border-style: solid;
+  border-width: 2px;
+  display: inline-block;
+  font: 700 15px Montserrat, sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  transition: all .3s ease 0s;
+  text-decoration: none
+}
+#text-9 .textwidget a:hover {
+  background-color: transparent;
+  border-color: #1b82e2;
+  color: #1b82e2;
+  text-decoration: none
+}
+.ui-datepicker-buttonpane.ui-widget-content {
+  display: none
+}
+.job_listing-location, .job_listing-meta, .resume-location, .resume-meta, .resume_listing-location {
+  width: 23%!important
+}
+.single_job_listing .job-overview-content .job_listing-description.job-overview {
+  float: left;
+  width: 100%
+}
+.job-manager-single-alert-link {
+  margin: 0 0 0 20px
+}
+@media only screen and (max-width:767px) {
+  .job-manager-single-alert-link a {
+    margin-top: 20px
+  }
+}
+@media only screen and (max-width:991px) {
+  .job_listing-location, .resume-location, .resume_listing-location {
+    width: 100%!important;
+    text-align: left!important
+  }
+}
+@media only screen and (max-width:1200px) {
+  .job_listing-meta, .resume-meta {
+    width: 100%!important;
+    text-align: left!important
+  }
+}
+.resume-meta-top~.resume-overview-content .resume-info {
+  padding-top: 0!important
+}
+.resume-meta-top~.resume-overview-content .resume-info h2 {
+  padding-top: 2em!important
+}
+.helperoverview ul {
+  padding: 0 0 0 5px!important
+}
+.helperoverview {
+  padding-left: 0!important
+}
+#jmfe_widget-8 .widgettitle {
+  font-size: 23px;
+  font-weight: 400;
+  margin-top: 0!important;
+  margin-bottom: 10px!important
+}
+#jmfe_widget-8 {
+  padding-bottom: 0!important;
+  border-bottom: none!important
+}
+.resume_types {
+  margin: 0;
+  padding: 0;
+  border: 1px solid #ccc;
+  border-width: 0 1px
+}
+.resume_types li {
+  float: left;
+  padding: 20px;
+  font: 700 12px/normal Montserrat, sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  border-bottom: 1px solid #ccc;
+  width: 100%
+}
+.resume_types::after {
+  clear: both
+}
+.resume_types::after, .resume_types::before {
+  content: "";
+  display: table
+}
+.resume_types li:last-child {
+  border-bottom: 0
+}
+@media screen and (min-width:768px) {
+  .resume_types li {
+    border: 1px solid #ccc;
+    border-width: 0 1px 1px 0;
+    width: 50%;
+    float: left
+  }
+  .resume_types li:last-child, .resume_types li:nth-child(3n) {
+    border-bottom: 0
+  }
+  .resume_types li:nth-child(2n) {
+    border-right: 0
+  }
+}
+@media screen and (min-width:992px) {
+  .resume_types li {
+    border-width: 0 1px 0 0;
+    width: auto
+  }
+  .resume_types li:nth-child(2n) {
+    border-right: 1px solid #ccc
+  }
+}
+.ui-datepicker .ui-datepicker-next {
+  top: 4px !important;
+  right: 1px !important;
+}
+.v_image_right {
+  width: 16%;
+  float: left;
+  color: #000;
+  font-weight: 700;
+  font-size: 25px;
+  position: relative;
+  top: 41px
+}
+.v_image_left {
+  width: 84%;
+  float: left
+}
+.v_image_left img {
+  max-width: 95%!important;
+  /*margin-left:5px;*/
+}
+.v_image_left li {
+  list-style: none!important;
+  float: left
+}
+@media screen and (min-width:768px) and (max-width:1320px) {
+  .v_image_left, .v_image_right {
+    width: 100%!important
+  }
+  .v_image_right {
+    position: inherit;
+    text-align: center
+  }
+  .v_image_left ul {
+    padding: 0;
+  }
+  .v_image_left li {
+    width: 33%
+  }
+  .v_image_left li:first-child {
+    margin-left: 5px;
+    padding: 0
+  }
+}
+@media screen and (max-width:767px) {
+  .v_image_left, .v_image_right {
+    width: 100%!important;
+    text-align: center
+  }
+  .v_image_right {
+    position: inherit
+  }
+  .v_image_left li, .v_image_left ul {
+    width: 100%;
+    margin-bottom: 15px
+  }
+  .v_image_left ul {
+    padding: 0;
+  }
+}
+.ui-datepicker .ui-datepicker-prev {
+  top: 4px !important;
+  left: 1px !important;
+}
+.page.page-id-99991327 .callout-feature-title, .page.page-id-99991592 .callout-feature-title {
+  font-size: 48px !important;
+  font-weight: 400 !important;
+}
+.chosen-container-single .chosen-single {
+  font-family: 'Varela Round', sans-serif !important;
+}
+span.resume-location.candidate-location {
+  width: 100% !important;
+  text-align: center;
+  display: inline-block;
+}
 .v_resume_location.resume__column {
-    width: 25%;
-    text-align: center;
+  width: 25%;
+  text-align: center;
 }
-.v_resume_location .candidate-location { text-align: center; width: 100%; line-height:1.75; }
-.total_exp { float: left; width: 100%; font-size:14px; line-height:1.75; font-weight:400; }
-.v_resume_location.resume-location::before{
-    font-size: 14px;
+.v_resume_location .candidate-location {
+  text-align: center;
+  width: 100%;
+  line-height: 1.75;
+}
+.total_exp {
+  float: left;
+  width: 100%;
+  font-size: 14px;
+  line-height: 1.75;
+  font-weight: 400;
+}
+.v_resume_location.resume-location::before {
+  font-size: 14px;
 }
 /*ul.job_listing-meta.job_listing__column { width :auto !important;}*/
+
 /*.job_listing-position { width:54% !important;}*/
 
-.resume-info { float:left; }
-@media only screen and (min-width:980px) and ( max-width:1200px){   .job_listing-meta{ width:23% !important;}}
-
-
+.resume-info {
+  float: left;
+}
+@media only screen and (min-width:980px) and ( max-width:1200px) {
+  .job_listing-meta {
+    width: 23% !important;
+  }
+}
 /* brajmohan css start 01-06-2017*/
-.job-manager-jobs td.applications a { border: 2px solid #7dc246; padding: 13px 70px; }
-.job-manager-jobs td.applications a:hover{ background-color: #7dc246; text-decoration: none; color: #ffffff; border-color: #7dc246; }
-.job-dashboard-actions a.job-dashboard-action-delete{ color: #e0610d; }
-.job-dashboard-actions a.job-dashboard-action-relist{ color: #0009ff; }
 
+.job-manager-jobs td.applications a {
+  border: 2px solid #7dc246;
+  padding: 13px 70px;
+}
+.job-manager-jobs td.applications a:hover {
+  background-color: #7dc246;
+  text-decoration: none;
+  color: #ffffff;
+  border-color: #7dc246;
+}
+.job-dashboard-actions a.job-dashboard-action-delete {
+  color: #e0610d;
+}
+.job-dashboard-actions a.job-dashboard-action-relist {
+  color: #0009ff;
+}
 /* brajmohan css end 01-06-2017*/
 
-
-.helperoverview ul li{ list-style: none; margin-left: 20px; }
-
-.resume-info h2.widget-title.widget-title--resume-top { border-bottom: 1px solid #D74240; width: 130px; }
-#MonthPicker_date table.month-picker-year-table, #MonthPicker_enddate  table.month-picker-year-table  { border: none !important; margin: 0px !important; }
-#MonthPicker_date a.ui-button.ui-widget.ui-corner-all.ui-button-text-only.ui-state-hover.ui-state-active, #MonthPicker_enddate a.ui-button.ui-widget.ui-corner-all.ui-button-text-only.ui-state-hover.ui-state-active { border: none !important; background: transparent !important; }
-#MonthPicker_date a.ui-button.ui-widget.ui-corner-all.ui-button-text-only.ui-state-hover, #MonthPicker_enddate a.ui-button.ui-widget.ui-corner-all.ui-button-text-only.ui-state-hover { border: none !important; background: transparent !important; }
-#MonthPicker_date.month-picker td, #MonthPicker_enddate.month-picker td { border-top: none !important;}
-#MonthPicker_date .month-picker-year-table a, #MonthPicker_enddate .month-picker-year-table a { border: none !important; }
-
-
-@media only screen and (max-width:767px){
-    #jmfe-label-working_statuts2 { margin-left:25px;}
-    #jmfe-label-cooking_requirements2 { margin-left:25px; }
-    #jmfe-label-helper_requirements2 { margin-left:25px; }
-    #jmfe-label-other_skills2 { margin-left:25px; }
-    .helperoverview ul li{ margin-left: 45px; }
-    .resume_contact.scroll-to-fixed-fixed{ top:18px !important; }
-    .resume-info h2.widget-title.widget-title--resume-top { border-bottom: 1px solid #D74240; width: 130px; }
-    .resume-info.col-md-12.col-sm-12.col-xs-12 { margin: 4em 0 0; }
+.helperoverview ul li {
+  list-style: none;
+  margin-left: 20px;
 }
-.resume_contact_button { background-color: #fff !important;}
-
-
+.resume-info h2.widget-title.widget-title--resume-top {
+  border-bottom: 1px solid #D74240;
+  width: 130px;
+}
+#MonthPicker_date table.month-picker-year-table, #MonthPicker_enddate table.month-picker-year-table {
+  border: none !important;
+  margin: 0px !important;
+}
+#MonthPicker_date a.ui-button.ui-widget.ui-corner-all.ui-button-text-only.ui-state-hover.ui-state-active, #MonthPicker_enddate a.ui-button.ui-widget.ui-corner-all.ui-button-text-only.ui-state-hover.ui-state-active {
+  border: none !important;
+  background: transparent !important;
+}
+#MonthPicker_date a.ui-button.ui-widget.ui-corner-all.ui-button-text-only.ui-state-hover, #MonthPicker_enddate a.ui-button.ui-widget.ui-corner-all.ui-button-text-only.ui-state-hover {
+  border: none !important;
+  background: transparent !important;
+}
+#MonthPicker_date.month-picker td, #MonthPicker_enddate.month-picker td {
+  border-top: none !important;
+}
+#MonthPicker_date .month-picker-year-table a, #MonthPicker_enddate .month-picker-year-table a {
+  border: none !important;
+}
+@media only screen and (max-width:767px) {
+  #jmfe-label-working_statuts2 {
+    margin-left: 25px;
+  }
+  #jmfe-label-cooking_requirements2 {
+    margin-left: 25px;
+  }
+  #jmfe-label-helper_requirements2 {
+    margin-left: 25px;
+  }
+  #jmfe-label-other_skills2 {
+    margin-left: 25px;
+  }
+  .helperoverview ul li {
+    margin-left: 45px;
+  }
+  .resume_contact.scroll-to-fixed-fixed {
+    top: 18px !important;
+  }
+  .resume-info h2.widget-title.widget-title--resume-top {
+    border-bottom: 1px solid #D74240;
+    width: 130px;
+  }
+  .resume-info.col-md-12.col-sm-12.col-xs-12 {
+    margin: 4em 0 0;
+  }
+}
+.resume_contact_button {
+  background-color: #fff !important;
+}
 /* viraj css start 23-06-2017*/
 
-.resume_contact_details_inner h2 { padding: 20px 20px 20px; margin:0px; }
-.resume_contact_details_inner p { margin: 20px 0; }
-.resume-template-default .resume_contact_details button.mfp-close { top: 26px; right: 26px;}
-.resume_contact_details_inner a.button.button--type-action { margin: 0 0 -15px; }
-
+.resume_contact_details_inner h2 {
+  padding: 20px 20px 20px;
+  margin: 0px;
+}
+.resume_contact_details_inner p {
+  margin: 20px 0;
+}
+.resume-template-default .resume_contact_details button.mfp-close {
+  top: 26px;
+  right: 26px;
+}
+.resume_contact_details_inner a.button.button--type-action {
+  margin: 0 0 -15px;
+}
 /* viraj css end 23-06-2017*/
 
-.resume_contact_button {    background-color:#fff !important; }
-
-.resume_contact_button:hover { background-color:#7dc246 !important;    color:#ffffff !important;    border-color:#7dc246 !important;}
-
-.resume-meta-top.row > .col-md-3.col-sm-6.col-xs-12:last-child  {
-    position: inherit;
+.resume_contact_button {
+  background-color: #fff !important;
 }
-
-#jmfe-label-other_skills2 { position:relative; padding-left:25px; }
-
+.resume_contact_button:hover {
+  background-color: #7dc246 !important;
+  color: #ffffff !important;
+  border-color: #7dc246 !important;
+}
+.resume-meta-top.row>.col-md-3.col-sm-6.col-xs-12:last-child {
+  position: inherit;
+}
+#jmfe-label-other_skills2 {
+  position: relative;
+  padding-left: 25px;
+}
 #jmfe-label-other_skills2:before {
-    content: "\e901"; position:absolute; left:0; top:0;
+  content: "\e901";
+  position: absolute;
+  left: 0;
+  top: 0;
   /* use !important to prevent issues with browser extensions that change fonts */
-      font-family: 'helperplace' !important;
-      speak: none;
-      font-style: normal;
-      font-weight: normal;
-      font-variant: normal;
-      text-transform: none;
-      line-height: 1; font-weight:700;
-
+  font-family: 'helperplace' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  font-weight: 700;
   /* Better Font Rendering =========== */
-      -webkit-font-smoothing: antialiased;
-      -moz-osx-font-smoothing: grayscale;
-   
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
-
-#jmfe-label-helper_requirements2 { position:relative; padding-left:25px; }
-
+#jmfe-label-helper_requirements2 {
+  position: relative;
+  padding-left: 25px;
+}
 #jmfe-label-helper_requirements2:before {
-    content: "\e902"; position:absolute; left:0; top:0;
+  content: "\e902";
+  position: absolute;
+  left: 0;
+  top: 0;
   /* use !important to prevent issues with browser extensions that change fonts */
-      font-family: 'helperplace' !important;
-      speak: none;
-      font-style: normal;
-      font-weight: normal;
-      font-variant: normal;
-      text-transform: none;
-      line-height: 1; font-weight:700;
-
+  font-family: 'helperplace' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  font-weight: 700;
   /* Better Font Rendering =========== */
-      -webkit-font-smoothing: antialiased;
-      -moz-osx-font-smoothing: grayscale;
-   
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
-
-#jmfe-label-cooking_requirements2 { position:relative; padding-left:25px; }
-
+#jmfe-label-cooking_requirements2 {
+  position: relative;
+  padding-left: 25px;
+}
 #jmfe-label-cooking_requirements2:before {
-    content: "\e900"; position:absolute; left:0; top:0;
+  content: "\e900";
+  position: absolute;
+  left: 0;
+  top: 0;
   /* use !important to prevent issues with browser extensions that change fonts */
-      font-family: 'helperplace' !important;
-      speak: none;
-      font-style: normal;
-      font-weight: normal;
-      font-variant: normal;
-      text-transform: none;
-      line-height: 1; font-weight:700;
-
+  font-family: 'helperplace' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  font-weight: 700;
   /* Better Font Rendering =========== */
-      -webkit-font-smoothing: antialiased;
-      -moz-osx-font-smoothing: grayscale;
-   
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
-
-#jmfe-label-working_statuts2 { position:relative; padding-left:25px; }
-
+#jmfe-label-working_statuts2 {
+  position: relative;
+  padding-left: 25px;
+}
 #jmfe-label-working_statuts2:before {
-    content: "\e903"; position:absolute; left:0; top:0;
+  content: "\e903";
+  position: absolute;
+  left: 0;
+  top: 0;
   /* use !important to prevent issues with browser extensions that change fonts */
-      font-family: 'helperplace' !important;
-      speak: none;
-      font-style: normal;
-      font-weight: normal;
-      font-variant: normal;
-      text-transform: none;
-      line-height: 1; font-weight:700;
-
+  font-family: 'helperplace' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  font-weight: 700;
   /* Better Font Rendering =========== */
-      -webkit-font-smoothing: antialiased;
-      -moz-osx-font-smoothing: grayscale;
-   
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }

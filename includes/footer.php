@@ -71,7 +71,7 @@
 						<aside class="widget widget--footer widget_text" id="text-2">
 							<h3 class="widget-title widget-title--footer">Contact Us</h3>
 							<div class="textwidget">
-								HelperPlace is located in Hong Kong.<br>
+								
 								<br>
 								We connect Employers and Domestic Helpers in Hong Kong, Singapore, Dubai, Doha, Taipei...
 							</div>
@@ -83,7 +83,7 @@
 		<div class="copyright">
 			<div class="container">
 				<div class="site-info">
-					&copy; 2017 HelperPlace &mdash; All Rights Reserved
+					&copy; 2017 LazzyWorkers &mdash; All Rights Reserved
 				</div>
 				<div class="footer-social">
 					<a href="http://facebook.com/helperplace"><span class="screen-reader-text">Facebook</span></a> <a href="http://twitter.com/helperplace"><span class="screen-reader-text">Twitter</span></a> <a href="https://plus.google.com/b/103520279115790188877/103520279115790188877"><span class="screen-reader-text">Google Plus</span></a> <a href="http://instagram.com/helperplaces"><span class="screen-reader-text">Instagram</span></a> <a href="https://www.pinterest.com/helperplace/"><span class="screen-reader-text">Pinterest</span></a> <a href="https://www.youtube.com/c/Helperplace"><span class="screen-reader-text">Youtube</span></a> <a href="https://www.linkedin.com/company/helperplace"><span class="screen-reader-text">Linkedin</span></a>
