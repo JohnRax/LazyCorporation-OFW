@@ -56,14 +56,14 @@ function register_user()
 						if($role=="employer")
 						{
 							echo"<script>
-									alert('Saved!');
+									alert('Registration Complete!');
 									location.href = 'index.php';
 							</script>";
 						}
 						else
 						{
 							echo"<script>
-									alert('Saved!');
+									alert('Registration Complete!');
 									location.href = 'index-candidate.php?source=submitprofile';
 							</script>";
 						}
