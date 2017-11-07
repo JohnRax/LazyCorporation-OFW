@@ -24,7 +24,10 @@
 							<h3 class="widget-title widget-title--footer">Quick Links</h3>
 							<ul>
 								<li class="page_item page-item-14">
-									<a href="post-a-job.html">Post A Job</a>
+									<a href="index-employer.php?source=postjobs">Post A Job</a>
+								</li>
+								<li class="page_item page-item-14">
+									<a href="index-employer.php?source=findcandidate">Find Candidates</a>
 								</li>
 								<li class="page_item page-item-1760">
 									<a href="terms-and-conditions.html">Terms and Conditions</a>
@@ -35,12 +38,8 @@
 								<li class="page_item page-item-1948">
 									<a href="frequently-asked-questions.html">FAQ</a>
 								</li>
-								<li class="page_item page-item-3940">
-									<a href="find-a-job.html">Search &#038; Find A Job</a>
-								</li>
-								<li class="page_item page-item-99991237">
-									<a href="submit-your-profile.html">Submit your Profile</a>
-								</li>
+								
+								
 							</ul>
 						</aside>
 					</div>

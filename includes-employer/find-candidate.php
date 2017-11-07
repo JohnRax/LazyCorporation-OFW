@@ -59,9 +59,7 @@
               <div class="search_submit">
                 <code><input name="submit" type="submit" value="Search"></code>
               </div><code></code>
-              <div class="filter_wide filter_by_tag">
-                <code><span class="resume_filter">Filter by tag:</span> <span class="resume_filter_content"><a class="tag-link-107 tag-link-position-3" href="#" style="font-size: 1.60975609756em;" title="471 Resume">Baby Care</a> <a class="tag-link-236 tag-link-position-3" href="#" style="font-size: 1.60975609756em;" title="769 Resume">Child Care</a> <a class="tag-link-237 tag-link-position-3" href="#" style="font-size: 1.60975609756em;" title="765 Resume">Cooking</a> <a class="tag-link-110 tag-link-position-3" href="#" style="font-size: 1.60975609756em;" title="220 Resume">Elder Care</a> <a class="tag-link-113 tag-link-position-3" href="#" style="font-size: 1.60975609756em;" title="845 Resume">Housekeeping</a> <a class="tag-link-112 tag-link-position-3" href="#" style="font-size: 1.60975609756em;" title="339 Resume">Pet Care</a> <a class="tag-link-111 tag-link-position-3" href="#" style="font-size: 1.60975609756em;" title="15 Resume">Professional Driver</a> <a class="tag-link-109 tag-link-position-3" href="#" style="font-size: 1.60975609756em;" title="312 Resume">Teen Care</a></span></code>
-              </div><code></code>
+             <code></code>
             </div>
             <ul class="resume_types"></ul><code>
             <script type="text/javascript">

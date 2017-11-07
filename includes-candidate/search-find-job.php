@@ -31,33 +31,6 @@
                                 <div class="search_submit">
                                     <input name="submit" type="submit" value="Search">
                                 </div>
-                                <div class="filter_wide filter_by_tag">
-                                    Filter by tag: <span class="filter_by_tag_cloud"></span>
-                                </div><select class='search_region' id='search_region' name='search_region'>
-                                    <option value='0'>
-                                        All Regions
-                                    </option>
-                                    <option class="level-0" value="35">
-                                        Hong Kong
-                                    </option>
-                                    <option class="level-0" value="162">
-                                        Macau
-                                    </option>
-                                    <option class="level-0" value="160">
-                                        Qatar
-                                    </option>
-                                    <option class="level-0" value="163">
-                                        Saudi Arabia
-                                    </option>
-                                    <option class="level-0" value="159">
-                                        Singapore
-                                    </option>
-                                    <option class="level-0" value="164">
-                                        State of Kuwait
-                                    </option>
-                                    <option class="level-0" value="161">
-                                        United Arab Emirates
-                                    </option>
                                 </select>
                             </div>
                             <ul class="job_types">
