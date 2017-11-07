@@ -29,9 +29,6 @@
 									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99991243" id="menu-item-99991243">
 										<a href="index.php?source=findcandidate">Find a Candidate</a>
 									</li>
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99991346" id="menu-item-99991346">
-										<a href="index.php?source=pricing">Pricing</a>
-									</li>
 								</ul>
 							</li>
 							<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-99991188" id="menu-item-99991188">
