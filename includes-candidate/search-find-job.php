@@ -81,6 +81,15 @@
 
                         });
                         </script>
+
+                         <ul class="job_listings">
+                        <?php 
+
+                            echo search_job();
+
+                         ?>
+                    </ul>
+           
                         <ul class="job_listings"></ul><a class="load_more_jobs" href="#" style="display:none;"><strong>Load more listings</strong></a>
                     </div>
                     <p>&nbsp;</p>

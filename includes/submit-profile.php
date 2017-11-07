@@ -11,7 +11,7 @@
 <div class="callout-feature-content callout-feature-content--height-medium">
 <h1 class="callout-feature-title">To Submit Profile Register Now!</h1>
 <p>LazzyWorks is the website reference to easily connect employers with the best helpers.</p>
-
+<a class="button button--type-action" href="index.php?source=register">Register Now!</a>
 </div>
 </div>
 </div>

@@ -17,9 +17,6 @@
 							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-99991582" id="menu-item-99991582">
 								<a href="index-candidate.php?source=submitprofile">For Helpers</a>
 								<ul class="sub-menu">
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99991581" id="menu-item-99991581">
-										<a href="index-candidate.php?source=submitprofile">Submit your Profile</a>
-									</li>
 								</ul>
 							</li>
 							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-99991222" id="menu-item-99991222">

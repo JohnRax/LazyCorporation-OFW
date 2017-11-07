@@ -1,5 +1,6 @@
 <?php 
 
+
 function register_user()
 {
 	global $connection;
@@ -243,14 +244,47 @@ function submit_profile()
 				if( isset($_POST['up_languages']) && !empty($_POST['up_languages']) ) 
 				{ 
 				    $languages = implode(', ', $_POST['up_languages']);
+				    
 				   
 				}
 				else
 				{
 					$languages="none";
+					
 				}
-
-			
+				if( isset($_POST['upi_cookingskills']) && !empty($_POST['upi_cookingskills']) ) 
+				{ 
+				    $cookingskills = implode(', ', $_POST['upi_cookingskills']);
+				    
+				   
+				}
+				else
+				{
+					$cookingskills="none";
+					
+				}
+				if( isset($_POST['upi_skillsexp']) && !empty($_POST['upi_skillsexp']) ) 
+				{ 
+				    $skillsexp = implode(', ', $_POST['upi_skillsexp']);
+				    
+				   
+				}
+				else
+				{
+					$skillsexp="none";
+					
+				}
+				if( isset($_POST['upi_otherskills']) && !empty($_POST['upi_otherskills']) ) 
+				{ 
+				    $otherskills = implode(', ', $_POST['upi_otherskills']);
+				    
+				   
+				}
+				else
+				{
+					$otherskills="none";
+					
+				}
 
 				$u_id=$_SESSION['u_id'];
 				$resumecategory=$_POST['up_category'];
@@ -267,9 +301,7 @@ function submit_profile()
 				$professionaltitle=$_POST['upi_professionaltitle'];
 				$yearsofexp=$_POST['upi_yearsofexp'];
 				$expsummary=$_POST['upi_expsummary'];
-				$cookingskills=$_POST['upi_cookingskills'];
-				$skillsexp=$_POST['upi_skillsexp'];
-				$otherskills=$_POST['upi_otherskills'];
+				
 				$workingstatus=$_POST['upi_workingstatus'];
 				$availability=$_POST['upi_availability'];
 
@@ -455,6 +487,8 @@ FROM
 			</ul>
 		</div>
 	</li>";
+
+
 
 
 

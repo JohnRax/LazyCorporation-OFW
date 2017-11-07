@@ -10,25 +10,11 @@
 				<div class="col-sm-12 col-md-10 col-md-offset-1">
 					<article class="post-14 page type-page status-publish hentry" id="post-14">
 						<div class="entry-content">
-							<p><img alt="Submit profile helper" class="wp-image-99992040 aligncenter" data-attachment-id="99992040" data-comments-opened="1" data-image-description="" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="positive-feedback" data-large-file="https://i0.wp.com/www.helperplace.com/wp-content/uploads/2016/06/Positive-feedback.png?fit=232%2C236&amp;ssl=1" data-medium-file="https://i0.wp.com/www.helperplace.com/wp-content/uploads/2016/06/Positive-feedback.png?fit=232%2C236&amp;ssl=1" data-orig-file="https://i0.wp.com/www.helperplace.com/wp-content/uploads/2016/06/Positive-feedback.png?fit=232%2C236&amp;ssl=1" data-orig-size="232,236" data-permalink="https://www.helperplace.com/submit-your-profile/positive-feedback" data-recalc-dims="1" src="../i0.wp.com/www.helperplace.com/wp-content/uploads/2016/06/Positive-feedback0753.png?resize=109%2C111"></p>
-							<p>Post a job on HelperPlace to reach Domestics Employees looking for a new challenge. Few minutes later, your ad will be online. Start your search and connect with the best profiles in your city.</p>
 							<form  class=""  method="post">
-								<fieldset>
-									<label>Have an account?</label>
-									<div class="field account-sign-in">
-										<a class="button" href="my-account-29200.html?redirect_to=https://www.helperplace.com/post-a-job">Sign in</a> If you don&rsquo;t have an account you can create one below by entering your email address/username. Your account details will be confirmed via email.
-									</div>
-								</fieldset>
-								<fieldset class="fieldset-create_account_email">
-									<label for="create_account_email">Your email</label>
-									<div class="field required-field">
-										<input class="jmfe-text-field jmfe-input-text input-text text-create_account_email" id="create_account_email" name="up_email" placeholder="you@yourdomain.com" required="" title="" type="text" value="">
-									</div>
-								</fieldset>
 								<fieldset class="fieldset-ads_info">
 									<label for="ads_info">Information about your search</label>
 									<div class="field">
-										<h2 class="jmfe-header-field header-ads_info" id="ads_info" style=""></h2>Information about your search
+										<h2 class="jmfe-header-field header-ads_info" id="ads_info" style=""></h2>
 										<div id="description-ads_info">
 											<small class="description header-ads_info-description">Please fill accurate information to quickly get candidates.</small>
 										</div>
@@ -38,6 +24,25 @@
 									<label for="job_title">Job Title</label>
 									<div class="field required-field">
 										<input class="jmfe-text-field jmfe-input-text input-text text-job_title" id="job_title" name="j_jobtitle" placeholder="e.g &quot;Western family is looking for Helper&quot;" required="" title="" type="text" value="">
+									</div>
+								</fieldset>
+								<fieldset class="fieldset-company_name">
+									<label for="company_name">You are</label>
+									<div class="field required-field">
+										<select class="jmfe-select-field jmfe-input-select input-select select-company_name" id="company_name" name="j_employertype">
+											<option selected disabled>
+												Select category
+											</option>
+											<option value="Direct Employer">
+												Direct Employer
+											</option>
+											<option value="Agency">
+												Agency
+											</option>
+											<option value="Other">
+												Other
+											</option>
+										</select>
 									</div>
 								</fieldset>
 								<fieldset class="fieldset-job_region">
@@ -72,7 +77,7 @@
 									</div>
 								</fieldset>
 								<fieldset class="fieldset-job_location">
-									<label for="job_location">District Location <small>(optional)</small></label>
+									<label for="job_location">City <small></small></label>
 									<div class="field">
 										<input class="jmfe-text-field jmfe-input-text input-text text-job_location" id="job_location" name="j_districtlocation" placeholder="e.g. &quot;Wan Chai&quot;" title="" type="text" value=""> <small class="description text-job_location-description">As your location is important for the candidates, we recommend you to fill your district location.</small>
 									</div>
@@ -128,43 +133,7 @@
 										</select>
 									</div>
 								</fieldset>
-								<fieldset class="fieldset-job_tags">
-									<label for="job_tags">Job tags <small>(optional)</small></label>
-									<div class="field">
-										<select class='' data-multiple_text='Select Some Options' data-no_results_text='No results match' data-placeholder='e.g. Baby Care, Child Care, Cooking, Housekeeping, Driving...' id='job_tags' multiple='multiple' name='j_tags'>
-											<option selected disabled>
-												e.g. "Baby care, child care, cooking, housekeeping, driving......."
-											</option>
-											<option class="level-0" value="Baby care">
-												Baby care
-											</option>
-											<option class="level-0" value="Child care">
-												Child care
-											</option>
-											<option class="level-0" value="Cooking">
-												Cooking
-											</option>
-											<option class="level-0" value="Driver">
-												Driver
-											</option>
-											<option class="level-0" value="Elderly care">
-												Elderly care
-											</option>
-											<option class="level-0" value="Gardening">
-												Gardening
-											</option>
-											<option class="level-0" value="Housekeeping">
-												Housekeeping
-											</option>
-											<option class="level-0" value="Pet Care">
-												Pet Care
-											</option>
-											<option class="level-0" value="185">
-												Teen Care
-											</option>
-										</select> <small class="description">3 most important skills for this job (comma separate tags)</small>
-									</div>
-								</fieldset>
+								
 								<fieldset class="fieldset-job_description">
 									<label for="job_description">Job Description</label>
 									<div class="field required-field">
@@ -221,32 +190,18 @@
 										</ul>
 									</div>
 								</fieldset>
-								<fieldset class="fieldset-cooking_requirements">
-									<label for="cooking_requirements">Cooking Skills <small>(optional)</small></label>
+								
+								<fieldset class="fieldset-helper_requirements">
+									<label for="helper_requirements">Cooking Skills <small>(optional)</small></label>
 									<div class="field">
-										<select class='job-manager-category-dropdown' data-multiple_text='Select Some Options' data-no_results_text='No results match' data-placeholder='Choose a category&hellip;' id='cooking_requirements' multiple='multiple' name='j_cookingskills'>
-											<option selected disabled>
-												Select Language
-											</option>
-											<option class="level-0" value="Arabic">
-												Arabic
-											</option>
-											<option class="level-0" value="Chinese">
-												Chinese
-											</option>
-											<option class="level-0" value="Indian">
-												Indian
-											</option>
-											<option class="level-0" value="Japanese">
-												Japanese
-											</option>
-											<option class="level-0" value="Vegetarian">
-												Vegetarian
-											</option>
-											<option class="level-0" value="Western">
-												Western
-											</option>
-										</select>
+										<ul class="job-manager-term-checklist job-manager-term-checklist-helper_requirements">
+											<li class="popular-category" id='helper_requirement-57'><label class="selectit"><input id="in-helper_requirement-57" name='j_cookingskills' type="checkbox" value="Arabic"> Arabic</label></li>
+											<li class="popular-category" id='helper_requirement-56'><label class="selectit"><input id="in-helper_requirement-56" name='j_cookingskills' type="checkbox" value="Chinese"> Child Care</label></li>
+											<li class="popular-category" id='helper_requirement-54'><label class="selectit"><input id="in-helper_requirement-54" name='j_cookingskills' type="checkbox" value="Indian"> Elder Care</label></li>
+											<li class="popular-category" id='helper_requirement-180'><label class="selectit"><input id="in-helper_requirement-180" name='j_cookingskills' type="checkbox" value="Japanese"> Japanese</label></li>
+											<li class="popular-category" id='helper_requirement-79'><label class="selectit"><input id="in-helper_requirement-79" name='j_cookingskills' type="checkbox" value="Vegetarian"> Vegetarian</label></li>
+											<li class="popular-category" id='helper_requirement-91'><label class="selectit"><input id="in-helper_requirement-91" name='j_cookingskills' type="checkbox" value="Western"> Western</label></li>
+										</ul>
 									</div>
 								</fieldset>
 								<fieldset class="fieldset-other_skills">
@@ -288,25 +243,7 @@
 									</div>
 								</fieldset>
 								<h2>Family Details</h2>
-								<fieldset class="fieldset-company_name">
-									<label for="company_name">You are</label>
-									<div class="field required-field">
-										<select class="jmfe-select-field jmfe-input-select input-select select-company_name" id="company_name" name="j_employertype">
-											<option selected disabled>
-												Select category
-											</option>
-											<option value="Direct Employer">
-												Direct Employer
-											</option>
-											<option value="Agency">
-												Agency
-											</option>
-											<option value="Other">
-												Other
-											</option>
-										</select>
-									</div>
-								</fieldset>
+								
 								<fieldset class="fieldset-employer_nationalities">
 									<label for="employer_nationalities">Nationality</label>
 									<div class="field required-field">
@@ -416,8 +353,7 @@
 											<option class="level-0" value="Couple + Parents">
 												Couple + Parents
 											</option>
-											<option class="level-0" value="Couple with Parents
-">
+											<option class="level-0" value="Couple with Parents">
 												Couple with Parents
 											</option>
 											<option class="level-0" value="Large Family (&gt; 6)">

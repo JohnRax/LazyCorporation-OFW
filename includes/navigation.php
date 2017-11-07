@@ -17,9 +17,9 @@
 									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99991234" id="menu-item-99991234">
 										<a href="index.php?source=findjob">Search &#038; Find A Job</a>
 									</li>
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99991246" id="menu-item-99991246">
+									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99991581" id="menu-item-99991581">
 										<a href="index.php?source=submitprofile">Submit your Profile</a>
-									</li>
+									</li>	
 								</ul>
 							</li>
 							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-99991245" id="menu-item-99991245">

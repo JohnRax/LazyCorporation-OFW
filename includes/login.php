@@ -28,9 +28,10 @@
 
 								<input name="_wp_http_referer" type="hidden" value="/my-account"> 
 
-								<button name="submit" type="submit">LOGIN</button>
+								<button name="submit" type="submit">LOGIN</button> &nbsp; &nbsp;&nbsp;&nbsp;<a href="index.php?source=register">Register now</a>
 								<br><br>
 								<input class="woocommerce-form__input woocommerce-form__input-checkbox" id="rememberme" name="rememberme" type="checkbox" value="forever"> <span>Remember me</span></label></p>
+
 								
 								<p class="woocommerce-LostPassword lost_password"><a href="">Lost your password?</a></p>
 							</form>

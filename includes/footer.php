@@ -62,8 +62,9 @@
 								</li>
 								<li>
 									<a href="hiring-maid-singapore.html">Hiring Maid in Singapore &#8211; Guide to Find the Best Helper</a> <span class="post-date">11 October 2017</span>
-								</li>
+								</li> 	 	
 							</ul>
+							
 						</aside>
 					</div>
 					<div class="col-xs-12 col-md-6 col-lg-3">

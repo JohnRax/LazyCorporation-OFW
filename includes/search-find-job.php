@@ -11,10 +11,10 @@
                         <form class="job_filters">
                             <div class="search_jobs">
                                 <div class="search_keywords">
-                                    <label for="start_date">Startdate</label> <input id="start_date" name="start_date" placeholder="Start Date" type="text" value="">
+                                    <label for="start_date">Startdate</label> <input id="start_date" name="start_date" placeholder="Job Title" type="text" name="j_jobtitle">
                                 </div>
                                 <div class="search_location">
-                                    <label for="search_location">Location</label> <input id="search_location" name="search_location" placeholder="Location" type="text" value="">
+                                    <label for="search_location">Location</label> <input id="search_location" name="search_location" placeholder="Location" type="text" name="j_country">
                                 </div>
                                 <div class="search_categories">
                                     <label for="search_categories">Category</label> <select class='job-manager-category-dropdown' data-multiple_text='Select Some Options' data-no_results_text='No results match' data-placeholder='Choose a category&hellip;' id='search_categories' name='search_categories[]'>

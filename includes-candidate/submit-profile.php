@@ -413,14 +413,14 @@
 									<label for="helper_requirements2">My skills and experiences</label>
 									<div class="field">
 										<ul class="job-manager-term-checklist job-manager-term-checklist-helper_requirements2">
-											<li class="popular-category" id='helper_requirement2-107'><label class="selectit"><input id="in-helper_requirement2-107" name='upi_skillsexp' type="checkbox" value="107"> Baby Care</label></li>
-											<li class="popular-category" id='helper_requirement2-236'><label class="selectit"><input id="in-helper_requirement2-236" name='upi_skillsexp' type="checkbox" value="236"> Child Care</label></li>
-											<li class="popular-category" id='helper_requirement2-237'><label class="selectit"><input id="in-helper_requirement2-237" name='upi_skillsexp' type="checkbox" value="237"> Cooking</label></li>
-											<li class="popular-category" id='helper_requirement2-110'><label class="selectit"><input id="in-helper_requirement2-110" name='upi_skillsexp' type="checkbox" value="110"> Elder Care</label></li>
-											<li class="popular-category" id='helper_requirement2-113'><label class="selectit"><input id="in-helper_requirement2-113" name='upi_skillsexp' type="checkbox" value="113"> Housekeeping</label></li>
-											<li class="popular-category" id='helper_requirement2-112'><label class="selectit"><input id="in-helper_requirement2-112" name='upi_skillsexp' type="checkbox" value="112"> Pet Care</label></li>
-											<li class="popular-category" id='helper_requirement2-111'><label class="selectit"><input id="in-helper_requirement2-111" name='upi_skillsexp' type="checkbox" value="111"> Professional Driver</label></li>
-											<li class="popular-category" id='helper_requirement2-109'><label class="selectit"><input id="in-helper_requirement2-109" name='upi_skillsexp' type="checkbox" value="109"> Teen Care</label></li>
+											<li class="popular-category" id='helper_requirement2-107'><label class="selectit"><input id="in-helper_requirement2-107" name="upi_skillsexp[]" type="checkbox" value=" Baby Care"> Baby Care</label></li>
+											<li class="popular-category" id='helper_requirement2-236'><label class="selectit"><input id="in-helper_requirement2-236" name="upi_skillsexp[]" type="checkbox" value="Child Care"> Child Care</label></li>
+											<li class="popular-category" id='helper_requirement2-237'><label class="selectit"><input id="in-helper_requirement2-237" name="upi_skillsexp[]" type="checkbox" value="Cooking"> Cooking</label></li>
+											<li class="popular-category" id='helper_requirement2-110'><label class="selectit"><input id="in-helper_requirement2-110" name="upi_skillsexp[]" type="checkbox" value="Elder Care"> Elder Care</label></li>
+											<li class="popular-category" id='helper_requirement2-113'><label class="selectit"><input id="in-helper_requirement2-113" name="upi_skillsexp[]" type="checkbox" value="Housekeeping"> Housekeeping</label></li>
+											<li class="popular-category" id='helper_requirement2-112'><label class="selectit"><input id="in-helper_requirement2-112" name="upi_skillsexp[]" type="checkbox" value="Pet Care"> Pet Care</label></li>
+											<li class="popular-category" id='helper_requirement2-111'><label class="selectit"><input id="in-helper_requirement2-111" name="upi_skillsexp[]" type="checkbox" value="Professional Driver"> Professional Driver</label></li>
+											<li class="popular-category" id='helper_requirement2-109'><label class="selectit"><input id="in-helper_requirement2-109" nname="upi_skillsexp[]" type="checkbox" value="Teen Care"> Teen Care</label></li>
 										</ul>
 									</div>
 								</fieldset>
@@ -428,16 +428,16 @@
 									<label for="cooking_requirements2">My cooking skills <small>(optional)</small></label>
 									<div class="field">
 										<ul class="job-manager-term-checklist job-manager-term-checklist-cooking_requirements2">
-											<li class="popular-category" id='cooking_requirement2-193'><label class="selectit"><input id="in-cooking_requirement2-193" name='upi_cookingskills' type="checkbox" value="193"> American</label></li>
-											<li class="popular-category" id='cooking_requirement2-114'><label class="selectit"><input id="in-cooking_requirement2-114" name='upi_cookingskills' type="checkbox" value="114"> Arabic</label></li>
-											<li class="popular-category" id='cooking_requirement2-115'><label class="selectit"><input id="in-cooking_requirement2-115" name='upi_cookingskills' type="checkbox" value="115"> Chinese</label></li>
-											<li class="popular-category" id='cooking_requirement2-191'><label class="selectit"><input id="in-cooking_requirement2-191" name='upi_cookingskills' type="checkbox" value="191"> French</label></li>
-											<li class="popular-category" id='cooking_requirement2-116'><label class="selectit"><input id="in-cooking_requirement2-116" name='upi_cookingskills' type="checkbox" value="116"> Indian</label></li>
-											<li class="popular-category" id='cooking_requirement2-192'><label class="selectit"><input id="in-cooking_requirement2-192" name='upi_cookingskills' type="checkbox" value="192"> Italian</label></li>
-											<li class="popular-category" id='cooking_requirement2-119'><label class="selectit"><input id="in-cooking_requirement2-119" name='upi_cookingskills' type="checkbox" value="119"> Japanese</label></li>
-											<li class="popular-category" id='cooking_requirement2-235'><label class="selectit"><input id="in-cooking_requirement2-235" name='upi_cookingskills' type="checkbox" value="235"> Thai</label></li>
-											<li class="popular-category" id='cooking_requirement2-117'><label class="selectit"><input id="in-cooking_requirement2-117" name='upi_cookingskills' type="checkbox" value="117"> Vegeterian</label></li>
-											<li class="popular-category" id='cooking_requirement2-118'><label class="selectit"><input id="in-cooking_requirement2-118" name='upi_cookingskills' type="checkbox" value="118"> Western</label></li>
+											<li class="popular-category" id='cooking_requirement2-193'><label class="selectit"><input id="in-cooking_requirement2-193" name="upi_cookingskills[]" type="checkbox" value="American"> American</label></li>
+											<li class="popular-category" id='cooking_requirement2-114'><label class="selectit"><input id="in-cooking_requirement2-114" name="upi_cookingskills[]" type="checkbox" value="Arabic"> Arabic</label></li>
+											<li class="popular-category" id='cooking_requirement2-115'><label class="selectit"><input id="in-cooking_requirement2-115" name="upi_cookingskills[]" type="checkbox" value="Chinese"> Chinese</label></li>
+											<li class="popular-category" id='cooking_requirement2-191'><label class="selectit"><input id="in-cooking_requirement2-191" name="upi_cookingskills[]" type="checkbox" value="French"> French</label></li>
+											<li class="popular-category" id='cooking_requirement2-116'><label class="selectit"><input id="in-cooking_requirement2-116" name="upi_cookingskills[]" type="checkbox" value="Indian"> Indian</label></li>
+											<li class="popular-category" id='cooking_requirement2-192'><label class="selectit"><input id="in-cooking_requirement2-192" name="upi_cookingskills[]" type="checkbox" value="Italian"> Italian</label></li>
+											<li class="popular-category" id='cooking_requirement2-119'><label class="selectit"><input id="in-cooking_requirement2-119" name="upi_cookingskills[]" type="checkbox" value="Japanese"> Japanese</label></li>
+											<li class="popular-category" id='cooking_requirement2-235'><label class="selectit"><input id="in-cooking_requirement2-235" name="upi_cookingskills[]" type="checkbox" value="Thai"> Thai</label></li>
+											<li class="popular-category" id='cooking_requirement2-117'><label class="selectit"><input id="in-cooking_requirement2-117" name="upi_cookingskills[]" type="checkbox" value="Vegeterian"> Vegeterian</label></li>
+											<li class="popular-category" id='cooking_requirement2-118'><label class="selectit"><input id="in-cooking_requirement2-118" name="upi_cookingskills[]" type="checkbox" value="Western"> Western</label></li>
 										</ul>
 									</div>
 								</fieldset>
@@ -445,16 +445,16 @@
 									<label for="other_skills2">My other skills <small>(optional)</small></label>
 									<div class="field">
 										<ul class="job-manager-term-checklist job-manager-term-checklist-other_skills2">
-											<li class="popular-category" id='other_skill2-232'><label class="selectit"><input id="in-other_skill2-232" name='upi_otherskills' type="checkbox" value="232"> Baking</label></li>
-											<li class="popular-category" id='other_skill2-126'><label class="selectit"><input id="in-other_skill2-126" name='upi_otherskills' type="checkbox" value="126"> Car Wash</label></li>
-											<li class="popular-category" id='other_skill2-123'><label class="selectit"><input id="in-other_skill2-123" name='upi_otherskills' type="checkbox" value="123"> Computer</label></li>
-											<li class="popular-category" id='other_skill2-124'><label class="selectit"><input id="in-other_skill2-124" name='upi_otherskills' type="checkbox" value="124"> Driving</label></li>
-											<li class="popular-category" id='other_skill2-190'><label class="selectit"><input id="in-other_skill2-190" name='upi_otherskills' type="checkbox" value="190"> First Aid Certificate</label></li>
-											<li class="popular-category" id='other_skill2-120'><label class="selectit"><input id="in-other_skill2-120" name='upi_otherskills' type="checkbox" value="120"> Gardening</label></li>
-											<li class="popular-category" id='other_skill2-122'><label class="selectit"><input id="in-other_skill2-122" name='upi_otherskills' type="checkbox" value="122"> Handyman</label></li>
-											<li class="popular-category" id='other_skill2-125'><label class="selectit"><input id="in-other_skill2-125" name='upi_otherskills' type="checkbox" value="125"> Housework</label></li>
-											<li class="popular-category" id='other_skill2-121'><label class="selectit"><input id="in-other_skill2-121" name='upi_otherskills' type="checkbox" value="121"> Sewing</label></li>
-											<li class="popular-category" id='other_skill2-238'><label class="selectit"><input id="in-other_skill2-238" name='upi_otherskills' type="checkbox" value="238"> Tutoring</label></li>
+											<li class="popular-category" id='other_skill2-232'><label class="selectit"><input id="in-other_skill2-232" name="upi_otherskills[]" type="checkbox" value="Baking"> Baking</label></li>
+											<li class="popular-category" id='other_skill2-126'><label class="selectit"><input id="in-other_skill2-126" name="upi_otherskills[]" type="checkbox" value="Car Wash"> Car Wash</label></li>
+											<li class="popular-category" id='other_skill2-123'><label class="selectit"><input id="in-other_skill2-123" name="upi_otherskills[]" type="checkbox" value="Computer"> Computer</label></li>
+											<li class="popular-category" id='other_skill2-124'><label class="selectit"><input id="in-other_skill2-124" name="upi_otherskills[]" type="checkbox" value="Driving"> Driving</label></li>
+											<li class="popular-category" id='other_skill2-190'><label class="selectit"><input id="in-other_skill2-190" name="upi_otherskills[]" type="checkbox" value="First Aid Certificate"> First Aid Certificate</label></li>
+											<li class="popular-category" id='other_skill2-120'><label class="selectit"><input id="in-other_skill2-120" name="upi_otherskills[]" type="checkbox" value="Gardening"> Gardening</label></li>
+											<li class="popular-category" id='other_skill2-122'><label class="selectit"><input id="in-other_skill2-122" name="upi_otherskills[]" type="checkbox" value="Handyman"> Handyman</label></li>
+											<li class="popular-category" id='other_skill2-125'><label class="selectit"><input id="in-other_skill2-125" name="upi_otherskills[]" type="checkbox" value="Housework"> Housework</label></li>
+											<li class="popular-category" id='other_skill2-121'><label class="selectit"><input id="in-other_skill2-121" name="upi_otherskills[]" type="checkbox" value="Sewing"> Sewing</label></li>
+											<li class="popular-category" id='other_skill2-238'><label class="selectit"><input id="in-other_skill2-238" name="upi_otherskills[]" type="checkbox" value="Tutoring"> Tutoring</label></li>
 										</ul>
 									</div>
 								</fieldset>
