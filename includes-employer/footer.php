@@ -85,7 +85,7 @@
 					&copy; 2017 HelperPlace &mdash; All Rights Reserved
 				</div>
 				<div class="footer-social">
-					<a href="http://facebook.com/helperplace"><span class="screen-reader-text">Facebook</span></a> <a href="http://twitter.com/helperplace"><span class="screen-reader-text">Twitter</span></a> <a href="https://plus.google.com/b/103520279115790188877/103520279115790188877"><span class="screen-reader-text">Google Plus</span></a> <a href="http://instagram.com/helperplaces"><span class="screen-reader-text">Instagram</span></a> <a href="https://www.pinterest.com/helperplace/"><span class="screen-reader-text">Pinterest</span></a> <a href="https://www.youtube.com/c/Helperplace"><span class="screen-reader-text">Youtube</span></a> <a href="https://www.linkedin.com/company/helperplace"><span class="screen-reader-text">Linkedin</span></a>
+					<a href="http://facebook.com/"><span class="screen-reader-text">Facebook</span></a> <a href="http://twitter.com/"><span class="screen-reader-text">Twitter</span></a> <a href="GOOGLE.COM"><span class="screen-reader-text">Google Plus</span></a> <a href="http://instagram.com/"><span class="screen-reader-text">Instagram</span></a> <a href="https://www.pinterest.com/"><span class="screen-reader-text">Pinterest</span></a> <a href="https://www.youtube.com"><span class="screen-reader-text">Youtube</span></a> <a href="https://www.linkedin.com/"><span class="screen-reader-text">Linkedin</span></a>
 				</div><a class="btt" href="#top"><span class="screen-reader-text">Back to Top</span></a>
 			</div>
 		</div>
