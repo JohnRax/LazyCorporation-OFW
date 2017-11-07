@@ -41,12 +41,6 @@
 								<li class="page_item page-item-99991237">
 									<a href="submit-your-profile.html">Submit your Profile</a>
 								</li>
-								<li class="page_item page-item-99991327">
-									<a href="happy-employers.html">Happy Employers</a>
-								</li>
-								<li class="page_item page-item-99991592">
-									<a href="happy-helpers.html">Happy Helpers</a>
-								</li>
 							</ul>
 						</aside>
 					</div>
