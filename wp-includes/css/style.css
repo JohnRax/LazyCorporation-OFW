@@ -25,7 +25,7 @@ a:active, a:hover {
 	border-color: #ffffff;
 }
 .search_jobs, .search_resumes, .cluster div, .job-type, .price-option__title, .entry-header__featured-image:hover .overlay, .widget_price_filter .ui-slider-horizontal .ui-slider-range {
-	background-color: #308f9d;
+	background-color: #166d91;
 }
 .job_filters .search_jobs .filter_by_tag a.active {
 	color: #1b82e2;
