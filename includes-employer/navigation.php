@@ -2,7 +2,7 @@
 	<div class="hfeed site" id="page">
 		<header class="site-header" id="masthead" role="banner">
 			<div class="container">
-				<a class="site-branding" href="https://www.helperplace.com/" rel="home" title="HelperPlace"><span class="site-title"><img alt="" height="44" src="https://www.helperplace.com/wp-content/uploads/2016/07/cropped-HelperPlace2.png" width="200"> <span>HelperPlace</span></span>
+				<a class="site-branding" href="index.php" rel="home" title="HelperPlace"><span class="site-title"><img alt="" height="30" src="wp-content/uploads/2016/07/250x88.png" width="200"> <span>HelperPlace</span></span>
 				<h2 class="site-description">Looking for the best helpers in Hong Kong?</h2></a>
 				<nav class="site-primary-navigation" id="site-navigation">
 					<a class="js-primary-menu-toggle primary-menu-toggle primary-menu-toggle--close" href="#site-navigation">Close</a>
