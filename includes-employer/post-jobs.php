@@ -179,14 +179,14 @@
 									<label for="helper_requirements">Main Duties <small>(optional)</small></label>
 									<div class="field">
 										<ul class="job-manager-term-checklist job-manager-term-checklist-helper_requirements">
-											<li class="popular-category" id='helper_requirement-57'><label class="selectit"><input id="in-helper_requirement-57" name='j_mainduties' type="checkbox" value="Baby Care"> Baby Care</label></li>
-											<li class="popular-category" id='helper_requirement-56'><label class="selectit"><input id="in-helper_requirement-56" name='j_mainduties' type="checkbox" value="Child Care"> Child Care</label></li>
-											<li class="popular-category" id='helper_requirement-54'><label class="selectit"><input id="in-helper_requirement-54" name='j_mainduties' type="checkbox" value="Elder Care"> Elder Care</label></li>
-											<li class="popular-category" id='helper_requirement-180'><label class="selectit"><input id="in-helper_requirement-180" name='j_mainduties' type="checkbox" value="Groceries"> Groceries</label></li>
-											<li class="popular-category" id='helper_requirement-79'><label class="selectit"><input id="in-helper_requirement-79" name='j_mainduties' type="checkbox" value="Housekeeping"> Housekeeping</label></li>
-											<li class="popular-category" id='helper_requirement-53'><label class="selectit"><input id="in-helper_requirement-53" name='j_mainduties' type="checkbox" value="Pet Care"> Pet Care</label></li>
-											<li class="popular-category" id='helper_requirement-91'><label class="selectit"><input id="in-helper_requirement-91" name='j_mainduties' type="checkbox" value="Professional Driver"> Professional Driver</label></li>
-											<li class="popular-category" id='helper_requirement-55'><label class="selectit"><input id="in-helper_requirement-55" name='j_mainduties' type="checkbox" value="Teen Care"> Teen Care</label></li>
+											<li class="popular-category" id='helper_requirement-57'><label class="selectit"><input id="in-helper_requirement-57" name="j_mainduties[]" type="checkbox" value="Baby Care"> Baby Care</label></li>
+											<li class="popular-category" id='helper_requirement-56'><label class="selectit"><input id="in-helper_requirement-56" name="j_mainduties[]" type="checkbox" value="Child Care"> Child Care</label></li>
+											<li class="popular-category" id='helper_requirement-54'><label class="selectit"><input id="in-helper_requirement-54" name="j_mainduties[]" type="checkbox" value="Elder Care"> Elder Care</label></li>
+											<li class="popular-category" id='helper_requirement-180'><label class="selectit"><input id="in-helper_requirement-180" name="j_mainduties[]" type="checkbox" value="Groceries"> Groceries</label></li>
+											<li class="popular-category" id='helper_requirement-79'><label class="selectit"><input id="in-helper_requirement-79" name="j_mainduties[]" type="checkbox" value="Housekeeping"> Housekeeping</label></li>
+											<li class="popular-category" id='helper_requirement-53'><label class="selectit"><input id="in-helper_requirement-53" name="j_mainduties[]" type="checkbox" value="Pet Care"> Pet Care</label></li>
+											<li class="popular-category" id='helper_requirement-91'><label class="selectit"><input id="in-helper_requirement-91" name="j_mainduties[]" type="checkbox" value="Professional Driver"> Professional Driver</label></li>
+											<li class="popular-category" id='helper_requirement-55'><label class="selectit"><input id="in-helper_requirement-55" name="j_mainduties[]" type="checkbox" value="Teen Care"> Teen Care</label></li>
 										</ul>
 									</div>
 								</fieldset>
@@ -195,12 +195,12 @@
 									<label for="helper_requirements">Cooking Skills <small>(optional)</small></label>
 									<div class="field">
 										<ul class="job-manager-term-checklist job-manager-term-checklist-helper_requirements">
-											<li class="popular-category" id='helper_requirement-57'><label class="selectit"><input id="in-helper_requirement-57" name='j_cookingskills' type="checkbox" value="Arabic"> Arabic</label></li>
-											<li class="popular-category" id='helper_requirement-56'><label class="selectit"><input id="in-helper_requirement-56" name='j_cookingskills' type="checkbox" value="Chinese"> Child Care</label></li>
-											<li class="popular-category" id='helper_requirement-54'><label class="selectit"><input id="in-helper_requirement-54" name='j_cookingskills' type="checkbox" value="Indian"> Elder Care</label></li>
-											<li class="popular-category" id='helper_requirement-180'><label class="selectit"><input id="in-helper_requirement-180" name='j_cookingskills' type="checkbox" value="Japanese"> Japanese</label></li>
-											<li class="popular-category" id='helper_requirement-79'><label class="selectit"><input id="in-helper_requirement-79" name='j_cookingskills' type="checkbox" value="Vegetarian"> Vegetarian</label></li>
-											<li class="popular-category" id='helper_requirement-91'><label class="selectit"><input id="in-helper_requirement-91" name='j_cookingskills' type="checkbox" value="Western"> Western</label></li>
+											<li class="popular-category" id='helper_requirement-57'><label class="selectit"><input id="in-helper_requirement-57" name="j_cookingskills[]" type="checkbox" value="Arabic"> Arabic</label></li>
+											<li class="popular-category" id='helper_requirement-56'><label class="selectit"><input id="in-helper_requirement-56" name="j_cookingskills[]" type="checkbox" value="Chinese"> Child Care</label></li>
+											<li class="popular-category" id='helper_requirement-54'><label class="selectit"><input id="in-helper_requirement-54" name="j_cookingskills[]" type="checkbox" value="Indian"> Elder Care</label></li>
+											<li class="popular-category" id='helper_requirement-180'><label class="selectit"><input id="in-helper_requirement-180" name="j_cookingskills[]" type="checkbox" value="Japanese"> Japanese</label></li>
+											<li class="popular-category" id='helper_requirement-79'><label class="selectit"><input id="in-helper_requirement-79" name="j_cookingskills[]" type="checkbox" value="Vegetarian"> Vegetarian</label></li>
+											<li class="popular-category" id='helper_requirement-91'><label class="selectit"><input id="in-helper_requirement-91" name="j_cookingskills[]" type="checkbox" value="Western"> Western</label></li>
 										</ul>
 									</div>
 								</fieldset>
@@ -208,16 +208,16 @@
 									<label for="other_skills">Other Required Skills <small>(optional)</small></label>
 									<div class="field">
 										<ul class="job-manager-term-checklist job-manager-term-checklist-other_skills">
-											<li class="popular-category" id='other_skill-199'><label class="selectit"><input id="in-other_skill-199" 	name='j_otherskills' type="checkbox" value="Baking"> Baking</label></li>
-											<li class="popular-category" id='other_skill-84'><label class="selectit"><input id="in-other_skill-84" 		name='j_otherskills' type="checkbox" value="Car Wash"> Car Wash</label></li>
-											<li class="popular-category" id='other_skill-245'><label class="selectit"><input id="in-other_skill-245" 	name='j_otherskills' type="checkbox" value="Driving Licence"> Driving Licence</label></li>
-											<li class="popular-category" id='other_skill-189'><label class="selectit"><input id="in-other_skill-189" 	name='j_otherskills' type="checkbox" value="First Aid Certificate"> First Aid Certificate</label></li>
-											<li class="popular-category" id='other_skill-85'><label class="selectit"><input id="in-other_skill-85" 		name='j_otherskills' type="checkbox" value="Gardening"> Gardening</label></li>
-											<li id='other_skill-89'><label class="selectit"><input id="in-other_skill-89" 								name='j_otherskills' type="checkbox" value="Handyman"> Handyman</label></li>
-											<li class="popular-category" id='other_skill-86'><label class="selectit"><input id="in-other_skill-86" 		name='j_otherskills' type="checkbox" value="Housework"> Housework</label></li>
-											<li class="popular-category" id='other_skill-87'><label class="selectit"><input id="in-other_skill-87" 		name='j_otherskills' type="checkbox" value="Sewing"> Sewing</label></li>
-											<li class="popular-category" id='other_skill-200'><label class="selectit"><input id="in-other_skill-200" 	name='j_otherskills' type="checkbox" value="Swimming"> Swimming</label></li>
-											<li class="popular-category" id='other_skill-201'><label class="selectit"><input id="in-other_skill-201" 	name='j_otherskills' type="checkbox" value="Tutoring"> Tutoring</label></li>
+											<li class="popular-category" id='other_skill-199'><label class="selectit"><input id="in-other_skill-199" 	name="j_otherskills[]" type="checkbox" value="Baking"> Baking</label></li>
+											<li class="popular-category" id='other_skill-84'><label class="selectit"><input id="in-other_skill-84" 		name="j_otherskills[]" type="checkbox" value="Car Wash"> Car Wash</label></li>
+											<li class="popular-category" id='other_skill-245'><label class="selectit"><input id="in-other_skill-245" 	name="j_otherskills[]" type="checkbox" value="Driving Licence"> Driving Licence</label></li>
+											<li class="popular-category" id='other_skill-189'><label class="selectit"><input id="in-other_skill-189" 	name="j_otherskills[]" type="checkbox" value="First Aid Certificate"> First Aid Certificate</label></li>
+											<li class="popular-category" id='other_skill-85'><label class="selectit"><input id="in-other_skill-85" 		name="j_otherskills[]" type="checkbox" value="Gardening"> Gardening</label></li>
+											<li id='other_skill-89'><label class="selectit"><input id="in-other_skill-89" 								name="j_otherskills[]" type="checkbox" value="Handyman"> Handyman</label></li>
+											<li class="popular-category" id='other_skill-86'><label class="selectit"><input id="in-other_skill-86" 		name="j_otherskills[]" type="checkbox" value="Housework"> Housework</label></li>
+											<li class="popular-category" id='other_skill-87'><label class="selectit"><input id="in-other_skill-87" 		name="j_otherskills[]" type="checkbox" value="Sewing"> Sewing</label></li>
+											<li class="popular-category" id='other_skill-200'><label class="selectit"><input id="in-other_skill-200" 	name="j_otherskills[]" type="checkbox" value="Swimming"> Swimming</label></li>
+											<li class="popular-category" id='other_skill-201'><label class="selectit"><input id="in-other_skill-201" 	name="j_otherskills[]" type="checkbox" value="Tutoring"> Tutoring</label></li>
 										</ul>
 									</div>
 								</fieldset>
@@ -225,14 +225,14 @@
 									<label for="candidate_languages2">Required Languages</label>
 									<div class="field required-field">
 										<ul class="job-manager-term-checklist job-manager-term-checklist-candidate_languages2">
-											<li class="popular-category" id='candidate_language2-149'><label class="selectit"><input id="in-candidate_language2-149" name='j_requiredlanguages' type="checkbox" value="Cantonese"> Cantonese</label></li>
-											<li class="popular-category" id='candidate_language2-148'><label class="selectit"><input id="in-candidate_language2-148" name='j_requiredlanguages' type="checkbox" value="English"> English</label></li>
-											<li class="popular-category" id='candidate_language2-152'><label class="selectit"><input id="in-candidate_language2-152" name='j_requiredlanguages' type="checkbox" value="Filipino"> Filipino</label></li>
-											<li class="popular-category" id='candidate_language2-153'><label class="selectit"><input id="in-candidate_language2-153" name='j_requiredlanguages' type="checkbox" value="Indonesian"> Indonesian</label></li>
-											<li id='candidate_language2-154'><label class="selectit"><input id="in-candidate_language2-154" 						 name='j_requiredlanguages' type="checkbox" value="Japanese"> Japanese</label></li>
-											<li class="popular-category" id='candidate_language2-150'><label class="selectit"><input id="in-candidate_language2-150" name='j_requiredlanguages' type="checkbox" value="Mandarin"> Mandarin</label></li>
-											<li id='candidate_language2-168'><label class="selectit"><input id="in-candidate_language2-168" 						 name='j_requiredlanguages' type="checkbox" value="Modern Arabic"> Modern Arabic</label></li>
-											<li id='candidate_language2-151'><label class="selectit"><input id="in-candidate_language2-151"							 name='j_requiredlanguages' type="checkbox" value="Thai"> Thai</label></li>
+											<li class="popular-category" id='candidate_language2-149'><label class="selectit"><input id="in-candidate_language2-149" name="j_requiredlanguages[]" type="checkbox" value="Cantonese"> Cantonese</label></li>
+											<li class="popular-category" id='candidate_language2-148'><label class="selectit"><input id="in-candidate_language2-148" name="j_requiredlanguages[]" type="checkbox" value="English"> English</label></li>
+											<li class="popular-category" id='candidate_language2-152'><label class="selectit"><input id="in-candidate_language2-152" name="j_requiredlanguages[]" type="checkbox" value="Filipino"> Filipino</label></li>
+											<li class="popular-category" id='candidate_language2-153'><label class="selectit"><input id="in-candidate_language2-153" name="j_requiredlanguages[]" type="checkbox" value="Indonesian"> Indonesian</label></li>
+											<li id='candidate_language2-154'><label class="selectit"><input id="in-candidate_language2-154" 						 name="j_requiredlanguages[]" type="checkbox" value="Japanese"> Japanese</label></li>
+											<li class="popular-category" id='candidate_language2-150'><label class="selectit"><input id="in-candidate_language2-150" name="j_requiredlanguages[]" type="checkbox" value="Mandarin"> Mandarin</label></li>
+											<li id='candidate_language2-168'><label class="selectit"><input id="in-candidate_language2-168" 						 name="j_requiredlanguages[]" type="checkbox" value="Modern Arabic"> Modern Arabic</label></li>
+											<li id='candidate_language2-151'><label class="selectit"><input id="in-candidate_language2-151"							 name="j_requiredlanguages[]" type="checkbox" value="Thai"> Thai</label></li>
 										</ul>
 									</div>
 								</fieldset>

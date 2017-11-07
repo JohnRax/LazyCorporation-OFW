@@ -138,6 +138,54 @@ function post_job()
 	global $connection;
 	if (isset($_POST['submit'])) 
 			{
+
+
+
+
+				if( isset($_POST['j_mainduties']) && !empty($_POST['j_mainduties']) ) 
+				{ 
+				    $jmainduties = implode(', ', $_POST['j_mainduties']);
+				    
+				   
+				}
+				else
+				{
+					$jmainduties="none";
+					
+				}
+				if( isset($_POST['j_cookingskills']) && !empty($_POST['j_cookingskills']) ) 
+				{ 
+				    $jcookingskills = implode(', ', $_POST['j_cookingskills']);
+				    
+				   
+				}
+				else
+				{
+					$jcookingskills="none";
+					
+				}
+				if( isset($_POST['j_otherskills']) && !empty($_POST['j_otherskills']) ) 
+				{ 
+				    $jotherskills = implode(', ', $_POST['j_otherskills']);
+				    
+				   
+				}
+				else
+				{
+					$jotherskills="none";
+					
+				}
+					if( isset($_POST['j_requiredlanguages']) && !empty($_POST['j_requiredlanguages']) ) 
+				{ 
+				    $jrequired = implode(', ', $_POST['j_requiredlanguages']);
+				    
+				   
+				}
+				else
+				{
+					$jrequired="none";
+					
+				}
 				$u_id=$_SESSION['u_id'];
 				$jobtitle=$_POST['j_jobtitle'];
 				$jobcountry=$_POST['j_country'];
@@ -147,10 +195,10 @@ function post_job()
 				
 				$jdescription=$_POST['j_description'];
 				$jworkingstatus=$_POST['j_workingstatus'];
-				$jmainduties=$_POST['j_mainduties'];
-				$jcookingskills=$_POST['j_cookingskills'];
-				$jotherskills=$_POST['j_otherskills'];
-				$jrequired=$_POST['j_requiredlanguages'];
+				
+				
+				
+			
 				$japplicationemail=$_POST['j_applicationemail'];
 				$jemployertype=$_POST['j_employertype'];
 				$jnationality=$_POST['j_nationality'];
