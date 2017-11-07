@@ -20,9 +20,6 @@
 							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-99991574" id="menu-item-99991574">
 								<a href="index-employer.php?source=findcandidate">Employers</a>
 								<ul class="sub-menu">
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99991576" id="menu-item-99991576">
-										<a href="index-employer.php?source=pricing">Pricing</a>
-									</li>
 									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99991575" id="menu-item-99991575">
 										<a href="index-employer.php?source=managejobs">Manage Jobs</a>
 									</li>
