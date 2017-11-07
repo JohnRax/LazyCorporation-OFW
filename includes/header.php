@@ -8,8 +8,8 @@
   <link href="http://gmpg.org/xfn/11" rel="profile">
   <link href="xmlrpc.php" rel="pingback">
   <meta content="initial-scale=1" name="viewport">
-  <meta content="width=device-width" name="viewport">
-  <title>HelperPlace - Looking for the Best Domestic Helpers in Hong Kong?</title>
+  <meta content=P"width=device-width" name="viewport">
+  <title>LazzyWorks - Looking for the Best Domestic Helpers in Hong Kong?</title>
   <meta content="HelperPlace easily connects Employers and Domestic Helpers. Still looking for Domestic Helpers or Maids in Hong Kong? We help you to find the best helpers." name="description">
   <link href="index.html" rel="canonical">
   <meta content="en_GB" property="og:locale">
