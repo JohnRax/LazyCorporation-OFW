@@ -14,24 +14,18 @@
 				<div class="col-sm-12 col-md-10 col-md-offset-1">
 					<article class="post-99991237 page type-page status-publish hentry" id="post-99991237">
 						<div class="entry-content">
-							<h2 style="text-align: center;"><span style="color: #993300;">Connect&nbsp;Freely with Employers</span></h2>
+							<h2 style="text-align: center;"><span style="color: #993300;">Connect Freely with Employers</span></h2>
 							<form  class="" enctype="multipart/form-data" method="post">
-								
 								<fieldset class="fieldset-job_section1">
 									<label for="job_section1">Personal Information</label>
-									<div class="field">
-										<h2 class="jmfe-header-field header-job_section1" id="job_section1" style=""></h2>Personal Information
-										<div id="description-job_section1">
-											<small class="description header-job_section1-description">Please fill out this form carefully and increase your chance to get a job. You need only 5 minutes, start now!</small>
-										</div>
-									</div>
+									<br><br>
 								</fieldset>
 								<fieldset class="fieldset-resume_category">
 									<label for="resume_category">Resume category</label>
 									<div class="field">
 										<select class='postform' id='resume_category' name='up_category' required="">
 											
-											<option class="level-0" selected disabled>
+											<option selected disabled>
 												Select job category
 											</option>	
 											<option class="level-0" value="Domestic Helper">
@@ -39,9 +33,6 @@
 											</option>
 											<option class="level-0" value="Driver">
 												Driver
-											</option>
-											<option class="level-0" selected disabled value="Other">
-												Other
 											</option>
 											<option class="level-1" value="Babysitter">
 												&nbsp;&nbsp;&nbsp;Babysitter
@@ -61,13 +52,13 @@
 								<fieldset class="fieldset-candidate_name">
 									<label for="candidate_name">Last name</label>
 									<div class="field">
-										<input class="jmfe-text-field jmfe-input-text input-text text-candidate_name" id="candidate_name" name="u_lname" placeholder="Last name" required="" title="" type="text" value="">
+										<input class="jmfe-text-field jmfe-input-text input-text text-candidate_name" id="candidate_name" name="u_lname" placeholder="Last Name" required="" title="" type="text" value="">
 									</div>
 								</fieldset>
 								<fieldset class="fieldset-candidate_name">
 									<label for="candidate_name">First name</label>
 									<div class="field">
-										<input class="jmfe-text-field jmfe-input-text input-text text-candidate_name" id="candidate_name" name="u_fname" placeholder="First name" required="" title="" type="text" value="">
+										<input class="jmfe-text-field jmfe-input-text input-text text-candidate_name" id="candidate_name" name="u_fname" placeholder="First Name" required="" title="" type="text" value="">
 									</div>
 								</fieldset>
 								<fieldset class="fieldset-candidate_email">
@@ -108,7 +99,7 @@
 									</div>
 								</fieldset>
 								<fieldset class="fieldset-candidate_location">
-									<label for="candidate_location">Where do you live? <small>(optional)</small></label>
+									<label for="candidate_location">Where do you live? </label>
 									<div class="field">
 										<select class="jmfe-select-field jmfe-input-select input-select select-candidate_location" id="candidate_location" name="up_address">
 											<option value="Hong Kong">
@@ -231,13 +222,27 @@
 									<label for="candidate_languages">Select all your spoken languages</label>
 									<div class="field">
 										<ul class="job-manager-term-checklist job-manager-term-checklist-candidate_languages">
-											<li class="popular-category" id='candidate_language-145'><label class="selectit"><input id="in-candidate_language-145" name='up_languages' type="checkbox" value="Arabic"> Arabic</label></li>
-											<li class="popular-category" id='candidate_language-140'><label class="selectit"><input id="in-candidate_language-140" name='up_languages' type="checkbox" value="Cantonese"> Cantonese</label></li>
-											<li class="popular-category" id='candidate_language-139'><label class="selectit"><input id="in-candidate_language-139" name='up_languages' type="checkbox" value="English"> English</label></li>
-											<li class="popular-category" id='candidate_language-144'><label class="selectit"><input id="in-candidate_language-144" name='up_languages' type="checkbox" value="Filipino"> Filipino</label></li>
-											<li class="popular-category" id='candidate_language-142'><label class="selectit"><input id="in-candidate_language-142" name='up_languages' type="checkbox" value="Japanese"> Japanese</label></li>
-											<li class="popular-category" id='candidate_language-141'><label class="selectit"><input id="in-candidate_language-141" name='up_languages' type="checkbox" value="Mandarin"> Mandarin</label></li>
-											<li id='candidate_language-143'><label class="selectit"><input id="in-candidate_language-143" name="tax_input[candidate_language][]" type="checkbox" value="Thai"> Thai</label></li>
+											<li class="popular-category" id='candidate_language-145'><label class="selectit">
+
+											<input  name="up_languages[]" type="checkbox" value="Arabic"> Arabic</label></li>
+											<li class="popular-category" id='candidate_language-140'><label class="selectit">
+
+											<input  name="up_languages[]" type="checkbox" value="Cantonese"> Cantonese</label></li>
+											<li class="popular-category" id='candidate_language-139'><label class="selectit">
+
+											<input  name="up_languages[]" type="checkbox" value="English"> English</label></li>
+											<li class="popular-category" id='candidate_language-144'><label class="selectit">
+
+											<input  name="up_languages[]" type="checkbox" value="Filipino"> Filipino</label></li>
+											<li class="popular-category" id='candidate_language-142'><label class="selectit">
+
+											<input  name="up_languages[]" type="checkbox" value="Japanese"> Japanese</label></li>
+											<li class="popular-category" id='candidate_language-141'><label class="selectit">
+
+											<input name="up_languages[]" type="checkbox" value="Mandarin"> Mandarin</label></li>
+											<li id='candidate_language-143'><label class="selectit">
+
+											<input name="up_languages[]" type="checkbox" value="Thai"> Thai</label></li>
 										</ul>
 									</div>
 								</fieldset>
@@ -268,16 +273,19 @@
 										<small class="description">Choose a nice & professional picture to get more interviews! Please no kids on your picture!</small>
 									</div>
 								</fieldset>
+								<br>
 								<fieldset class="fieldset-candidate_pro">
 									<label for="candidate_pro">Professional Information</label>
-									<div class="field">
-										<h2 class="jmfe-header-field header-candidate_pro" id="candidate_pro"></h2>Professional Information
-									</div>
 								</fieldset>
+								<br>
 								<fieldset class="fieldset-resume_region">
 									<label for="resume_region">Where do you want to work?</label>
 									<div class="field">
-										<select class='job-manager-category-dropdown' data-multiple_text='Select Some Options' data-no_results_text='No results match' data-placeholder='Choose a category&hellip;' id='resume_region' multiple='multiple' name='upi_preferedworklocation'>
+										<select class='postform' id='resume_category' name='upi_preferedworklocation' required="">
+											
+											<option selected disabled>
+												Select country
+											</option>	
 											<option class="level-0" value="Hong Kong">
 												Hong Kong
 											</option>
@@ -303,6 +311,9 @@
 									<label for="candidate_title">Professional title</label>
 									<div class="field">
 										<select class="jmfe-select-field jmfe-input-select input-select select-candidate_title" id="candidate_title" name="upi_professionaltitle">
+											<option selected disabled>
+												Select Category
+											</option>	
 											<option value="Domestic Helper">
 												Domestic Helper
 											</option>
@@ -312,42 +323,11 @@
 										</select>
 									</div>
 								</fieldset>
-								<fieldset class="fieldset-resume_skills">
-									<label for="resume_skills">Select your main skills (Maximum 3)</label>
-									<div class="field">
-										<select class='job-manager-category-dropdown' data-multiple_text='Select Some Options' data-no_results_text='No results match' data-placeholder='Choose a category&hellip;' id='resume_skills' multiple='multiple' name='upi_mainskills'>
-											<option class="level-0" value="Baby Care">
-												Baby Care
-											</option>
-											<option class="level-0" value="Child Care">
-												Child Care
-											</option>
-											<option class="level-0" value="Cooking">
-												Cooking
-											</option>
-											<option class="level-0" value="Elder Care">
-												Elder Care
-											</option>
-											<option class="level-0" value="Housekeeping">
-												Housekeeping
-											</option>
-											<option class="level-0" value="Pet Care">
-												Pet Care
-											</option>
-											<option class="level-0" value="Professional Driver">
-												Professional Driver
-											</option>
-											<option class="level-0" value="Teen Care">
-												Teen Care
-											</option>
-										</select>
-									</div>
-								</fieldset>
 								<fieldset class="fieldset-working_experiences">
 									<label for="working_experiences">Years of Experience</label>
 									<div class="field">
 										<select class="jmfe-select-field jmfe-input-select input-select select-working_experiences" id="working_experiences" name="upi_yearsofexp">
-											<option value="Years">
+											<option selected disabled>
 												Select Years
 											</option>
 											<option value="0">
@@ -482,6 +462,9 @@
 									<label for="working_statuts2">My working status</label>
 									<div class="field">
 										<select class='postform' id='working_statuts2' name='upi_workingstatus' required="">
+											<option selected disabled>
+												Select working status
+											</option>
 											<option class="level-0" value="Break Contract">
 												Break Contract
 											</option>
@@ -517,7 +500,7 @@
 									<div class="field">
 										<input class="jmfe-date-field jmfe-input-date input-date input-text jmfe-date-picker date-picker-candidate_available" id="candidate_available" maxlength="" name="upi_availability" placeholder="" type="date" value="">
 									</div>
-								</fieldset> 
+								</fieldset>
 								<fieldset class="fieldset-candidate_education">
 									<label for="candidate_education">Education <small>(optional)</small></label>
 									<div class="field">
