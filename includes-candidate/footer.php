@@ -10,7 +10,7 @@
 		<div class="footer-widgets">
 			<div class="container">
 				<div class="row">
-					<div class="col-xs-12 col-md-6 col-lg-3">
+					<div class="col-xs-12 col-md-6 col-lg-4">
 						<aside class="widget widget--footer widget_text" id="text-1">
 							<div class="textwidget">
 								<img data-recalc-dims="1" src="../i1.wp.com/www.helperplace.com/wp-content/uploads/2016/07/cropped-HelperPlace2e2b8.png?w=680&amp;ssl=1"><br>
@@ -19,7 +19,7 @@
 							</div>
 						</aside>
 					</div>
-					<div class="col-xs-12 col-md-6 col-lg-3">
+					<div class="col-xs-12 col-md-6 col-lg-4">
 						<aside class="widget widget--footer widget_pages" id="pages-1">
 							<h3 class="widget-title widget-title--footer">Quick Links</h3>
 							<ul>
@@ -44,23 +44,8 @@
 							</ul>
 						</aside>
 					</div>
-					<div class="col-xs-12 col-md-6 col-lg-3">
-						<aside class="widget widget--footer widget_recent_entries" id="recent-posts-1">
-							<h3 class="widget-title widget-title--footer">Recent News Articles</h3>
-							<ul>
-								<li>
-									<a href="motivate-retain-trustworthy-helper.html">Motivate and Retain a Trustworthy Helper</a> <span class="post-date">25 October 2017</span>
-								</li>
-								<li>
-									<a href="domestic-helper-interview-tips-get-new-job.html">Domestic Helper Interview &#8211; Tips to easily get a new Job!</a> <span class="post-date">18 October 2017</span>
-								</li>
-								<li>
-									<a href="hiring-maid-singapore.html">Hiring Maid in Singapore &#8211; Guide to Find the Best Helper</a> <span class="post-date">11 October 2017</span>
-								</li>
-							</ul>
-						</aside>
-					</div>
-					<div class="col-xs-12 col-md-6 col-lg-3">
+				
+					<div class="col-xs-12 col-md-6 col-lg-4">
 						<aside class="widget widget--footer widget_text" id="text-2">
 							<h3 class="widget-title widget-title--footer">Contact Us</h3>
 							<div class="textwidget">
