@@ -591,8 +591,7 @@
 							</script> 
 							<script src="../code.jquery.com/ui/1.11.4/jquery-ui.min.js">
 							</script> 
-							<script src='wp-content/themes/jobify-child/js/MonthPicker.min.js' type='text/javascript'>
-							</script> 
+							
 							<script>
 
 							jQuery(document).ready(function(){
