@@ -10,7 +10,7 @@
 					<div class="nav-menu nav-menu--primary">
 						<ul class="nav-menu nav-menu--primary" id="menu-main-menu">
 							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-99991208" id="menu-item-99991208">
-								<a href="find-a-job.html">For Helpers</a>
+								<a href="index.php?source=findjob">For Helpers</a>
 								<ul class="sub-menu">
 									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99991234" id="menu-item-99991234">
 										<a href="index.php?source=findjob">Search &#038; Find A Job</a>
@@ -21,7 +21,7 @@
 								</ul>
 							</li>
 							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-99991245" id="menu-item-99991245">
-								<a href="find-domestic-helper.html">For Employers</a>
+								<a href="index.php?source=findcandidate">For Employers</a>
 								<ul class="sub-menu">
 									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99991220" id="menu-item-99991220">
 										<a href="index.php?source=postjob">Post A Job</a>
@@ -32,7 +32,7 @@
 								</ul>
 							</li>
 							<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-99991188" id="menu-item-99991188">
-								<a href="#">About</a>
+								<a href="index.php?source=faq">About</a>
 								<ul class="sub-menu">
 									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99991214" id="menu-item-99991214">
 										<a href="index.php?source=faq">FAQ</a>
