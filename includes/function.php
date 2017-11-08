@@ -280,7 +280,10 @@ function post_job()
 				}
 				else
 				{
-					echo "POST SUCCESSFULLY";
+					echo"<script>
+									alert('Post Successfully!');
+									location.href = 'index-employer.php';
+							</script>";
 				}
 			}
 
