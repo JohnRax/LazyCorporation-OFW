@@ -16,12 +16,12 @@
 							<form class="woocomerce-form woocommerce-form-login login" method="post">
 								
 								<p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
-									<label for="username">Username or email address <span class="required">*</span></label> 
-										<input class="woocommerce-Input woocommerce-Input--text input-text" id="username" name="u_username" type="text" value=""></p>
+									<label for="username">Username <span class="required">*</span></label> 
+										<input class="woocommerce-Input woocommerce-Input--text input-text" id="username" name="u_username" type="text" value="" placeholder="Username" ></p>
 								
 								<p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
 									<label for="password">Password <span class="required">*</span></label> 
-										<input class="woocommerce-Input woocommerce-Input--text input-text" id="password" name="u_password" type="password"></p>
+										<input class="woocommerce-Input woocommerce-Input--text input-text" id="password" name="u_password" type="password" placeholder="Password"></p>
 								<p class="form-row">
 
 								<input id="woocommerce-login-nonce" name="woocommerce-login-nonce" type="hidden" value="06a2332b36">
