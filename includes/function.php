@@ -281,7 +281,10 @@ function post_job()
 				}
 				else
 				{
-					echo "POST SUCCESSFULLY";
+					echo"<script>
+									alert('Your Job Post has been Submited and is Pending Approval');
+									location.href = 'index-employer.php';
+							</script>";
 				}
 			}
 
@@ -446,7 +449,7 @@ function submit_profile()
 						 die("no result".mysqli_error($connection));
 					}
 					echo"<script>
-							alert('Saved!');
+							alert('Your Resume has been Submited and is Pending Approval');
 							location.href = 'index-candidate.php';
 						</script>";
 				}
