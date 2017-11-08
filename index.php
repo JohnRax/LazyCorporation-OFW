@@ -18,51 +18,64 @@ session_start();?>
 		}
 	}
 
-
 	
-	if (isset($_GET['source'])) {
-
-		$source=$_GET['source'];
+	if (isset($_GET['profile_id'])) {
+		
+		$u_id=$_GET['profile_id'];
+		include "includes/candidate-page.php";
 	}
-	else{
-
-		$source="";
+	else if(isset($_GET['jobid']))
+	{
+		$j_id=$_GET['jobid'];
+		include "includes/job-page.php";
 	}
+	else
+	{
 
-	switch ($source) {
-		case 'findjob':
-			include "includes/search-find-job.php";
-			break;
-		case 'submitprofile':
-			include "includes/submit-profile.php";
-			break;
-		case 'postjob':
-			include "includes/post-job.php";
-			break;
-		case 'findcandidate':
-			include "includes/find-candidate.php";
-			break;
-		case 'pricing':
-			include "includes/pricing.php";
-			break;
-		case 'faq':
-			include "includes/faq.php";
-			break;
-		case 'privacypolicy':
-			include "includes/privacy-policy.php";
-			break;
-		case 'termsandcondition':
-			include "includes/terms-and-condition.php";
-			break;
-		case 'register':
-			include "includes/register.php";
-			break;
-		case 'login':
-			include "includes/login.php";
-			break;
-		default:
-			include "includes/homepage.php";
-			break;
-	}
+		if (isset($_GET['source'])) {
+
+			$source=$_GET['source'];
+		}
+		else{
+
+			$source="";
+		}
+
+		switch ($source) {
+			case 'findjob':
+				include "includes/search-find-job.php";
+				break;
+			case 'submitprofile':
+				include "includes/submit-profile.php";
+				break;
+			case 'postjob':
+				include "includes/post-job.php";
+				break;
+			case 'findcandidate':
+				include "includes/find-candidate.php";
+				break;
+			case 'pricing':
+				include "includes/pricing.php";
+				break;
+			case 'faq':
+				include "includes/faq.php";
+				break;
+			case 'privacypolicy':
+				include "includes/privacy-policy.php";
+				break;
+			case 'termsandcondition':
+				include "includes/terms-and-condition.php";
+				break;
+			case 'register':
+				include "includes/register.php";
+				break;
+			case 'login':
+				include "includes/login.php";
+				break;
+			default:
+				include "includes/homepage.php";
+				break;
+		}
+	}	
  ?>
 <?php include "includes/footer.php" ?>
