@@ -1,6 +1,6 @@
 <?php
 
-	$db['db_host']='localhost';
+	$db['db_host']='35.187.210.62';
 	$db['db_user']='root';
 	$db['db_pass']='';
 	$db['db_name']='lazycorporation-ofwdatabase';
