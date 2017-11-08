@@ -195,12 +195,19 @@ function post_job()
 				$jcategory=$_POST['j_category'];
 				$jdescription=$_POST['j_description'];
 				$jworkingstatus=$_POST['j_workingstatus'];
+<<<<<<< HEAD
+=======
+				
+				
+			
+>>>>>>> 283833f5308c77a6fe075e7cdbfe35a38a97cba7
 				$japplicationemail=$_POST['j_applicationemail'];
 				$jemployertype=$_POST['j_employertype'];
 				$jnationality=$_POST['j_nationality'];
 				$jfamily=$_POST['j_familytype'];
 				$jstartdate=$_POST['j_startdate'];
 				$jmonthlysalary=$_POST['j_monthlysalary'];
+				$jstatus="Unapproved";
 
 				
 				$jobtitle= mysqli_real_escape_string($connection,$jobtitle);			
@@ -239,7 +246,8 @@ function post_job()
 																	j_nationality,
 																	j_familytype,
 																	j_startdate,
-																	j_monthlysalary
+																	j_monthlysalary,
+																	j_status
 																	) 
 																	VALUES
 																	(
@@ -260,7 +268,8 @@ function post_job()
 																		'$jnationality',
 																		'$jfamily',
 																		'$jstartdate',
-																		'$jmonthlysalary'
+																		'$jmonthlysalary',
+																		'$jstatus'
 																	) ";  
 				
 				
@@ -347,6 +356,7 @@ function submit_profile()
 				$expsummary=$_POST['upi_expsummary'];
 				$workingstatus=$_POST['upi_workingstatus'];
 				$availability=$_POST['upi_availability'];
+				$status="Unapproved";
 
 
 
@@ -383,7 +393,8 @@ function submit_profile()
 																	  up_telephone,
 																	  up_children,
 																	  up_languages,
-																	  up_picture
+																	  up_picture,
+																	  up_status
 																	) 
 																	VALUES
 																	  (
@@ -398,7 +409,7 @@ function submit_profile()
 																	  '$telephone',
 																	  '$children',
 																	  '$languages',
-																	  '$picture')";
+																	  '$picture','$status')";
 				if(mysqli_query($connection,$insert_user_personal_information_query))
 				{
 					$id=mysqli_insert_id($connection);				
@@ -672,6 +683,7 @@ function view_candidate ()
 function search_job()
 {
 	global $connection;
+<<<<<<< HEAD
 	$search_job_query="SELECT 
 					  j_id,
 					  j_jobtitle,
@@ -681,6 +693,9 @@ function search_job()
 						DATE_FORMAT(j_dateposted,'%M %d, %Y') as date
 					  FROM job_description
 					  	order by j_id desc";
+=======
+	$search_job_query="SELECT * from job_description where j_status='Approved'";
+>>>>>>> 283833f5308c77a6fe075e7cdbfe35a38a97cba7
     $search_job_result=mysqli_query($connection,$search_job_query);
 
     while($row=mysqli_fetch_assoc($search_job_result))
@@ -718,6 +733,7 @@ function search_job()
 function view_job()
 {
 	global $connection;
+<<<<<<< HEAD
 	if (isset($_GET['jobid'])) 
 	{
 			 $id=$_GET['jobid'];
@@ -895,9 +911,41 @@ function view_job()
 
 		    	}
 }
+=======
+	$search_candidate_query="SELECT 
+							  a.`u_fname`,
+							  a.`u_lname`,
+							  b.`up_category`,
+							  b.`up_address`,
+							  c.`upi_yearsofexp` 
+								FROM
+							  `user_details` AS a 
+							   JOIN `user_personal_information` AS b 
+							    ON b.u_id = a.u_id 
+							   JOIN `user_professional_information` AS c 
+							    ON a.u_id = c.u_id  where b.up_status='Approved'";
+    $search_candidate_result=mysqli_query($connection,$search_candidate_query);
+
+    while($row=mysqli_fetch_assoc($search_candidate_result))
+    {
+        $fname=$row['u_fname'];
+        $lname=$row['u_lname'];
+        $category=$row['up_category'];
+        $address=$row['up_address'];
+        $yearsofexp=$row['upi_yearsofexp'];
+>>>>>>> 283833f5308c77a6fe075e7cdbfe35a38a97cba7
 
 
 	
 }    
 
+<<<<<<< HEAD
  ?>
+=======
+
+    }
+
+}
+	    
+?>
+>>>>>>> 283833f5308c77a6fe075e7cdbfe35a38a97cba7
