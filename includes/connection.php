@@ -4,7 +4,6 @@
 	$db['db_user']='root';
 	$db['db_pass']='';
 	$db['db_name']='lazycorporation-ofwdatabase';
-	$db['db_socket']='';
 
 	foreach ($db as $key => $value) {
 		
@@ -12,14 +11,20 @@
 	}
 
 
-	$connection = mysqli_connect(null,DB_USER,DB_PASS,DB_NAME,null,"/cloudsql/lazzyworks-185201:asia-northeast1:lazzyworksdb");
-
-	if($connection)
-	{
-		
+	
+	try {
+		$connection = mysqli_connect(null,DB_USER,DB_PASS,DB_NAME,0,"/cloudsql/lazzyworks-185201:asia-northeast1:lazzyworksdb");
+		if($connection)
+		{
+			
+		}
+		else
+		{
+			echo "Not Connected";
+		}
 	}
-	else
+	catch(Exception $e)
 	{
-		echo "Not Connected";
+		echo mysqli_connect_error();
 	}
 ?>
