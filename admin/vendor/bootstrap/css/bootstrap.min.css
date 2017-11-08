@@ -9,6 +9,7 @@ th{
 
 	white-space: nowrap;
 }
+
 html {
 	font-family: sans-serif;
 	-webkit-text-size-adjust: 100%;
@@ -1146,10 +1147,12 @@ hr {
 	font-size: 30px
 }
 .h3, h3 {
-	font-size: 24px
+	font-size: 24px;
+	color: white;
 }
 .h4, h4 {
 	font-size: 18px
+	
 }
 .h5, h5 {
 	font-size: 14px
@@ -4663,7 +4666,8 @@ a.list-group-item-danger.active, a.list-group-item-danger.active:focus, a.list-g
 	box-shadow: 0 1px 1px rgba(0, 0, 0, .05)
 }
 .panel-body {
-	padding: 15px
+	padding: 15px;
+	background-color:#333;
 }
 .panel-heading {
 	padding: 10px 15px;
@@ -4804,8 +4808,9 @@ a.list-group-item-danger.active, a.list-group-item-danger.active:focus, a.list-g
 }
 .panel-default>.panel-heading {
 	color: #333;
-	background-color: #f5f5f5;
-	border-color: #ddd
+	background-color: #333;
+	border-color: #ddd;
+	text-align: center;
 }
 .panel-default>.panel-heading+.panel-collapse>.panel-body {
 	border-top-color: #ddd
