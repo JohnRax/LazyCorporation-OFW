@@ -404,9 +404,9 @@
 											<link href='wp-includes/css/dashicons.min4a41.css?ver=4.8.2' id='dashicons-css' media='all' rel='stylesheet' type='text/css'>
 											<link href='wp-includes/css/editor.min4a41.css?ver=4.8.2' id='editor-buttons-css' media='all' rel='stylesheet' type='text/css'>
 											<div class="wp-editor-container" id="wp-resume_content-editor-container">
-												<textarea class="wp-editor-area" cols="40" id="resume_content" name="upi_expsummary" rows="8"></textarea>
+												<textarea class="wp-editor-area" cols="40" id="resume_content" name="upi_expsummary" rows="8" minlength="70" maxlength="250"></textarea>
 											</div>
-										</div><small class="description">Please explain: Who are you? How long have you worked ? What is your personality? What is your previous experience?</small>
+										</div><small class="description">Please explain: Who are you? How long have you worked ? What is your personality? What is your previous experience? (Minimum of 70 characters)</small>
 									</div>
 								</fieldset>
 								<fieldset class="fieldset-helper_requirements2">
