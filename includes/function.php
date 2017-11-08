@@ -463,7 +463,7 @@ function search_candidate()
 							   JOIN user_personal_information AS b 
 							    ON b.u_id = a.u_id 
 							   JOIN user_professional_information AS c 
-							    ON a.u_id = c.u_id ";
+							    ON a.u_id = c.u_id where b.up_status='Approved'";
     $search_candidate_result=mysqli_query($connection,$search_candidate_query);
 
     while($row=mysqli_fetch_assoc($search_candidate_result))
