@@ -21,16 +21,16 @@
 									</div>
 								</fieldset>
 								<fieldset class="fieldset-job_title">
-									<label for="job_title">Job Title</label>
+									<label for="job_title">Job Title *</label>
 									<div class="field required-field">
 										<input class="jmfe-text-field jmfe-input-text input-text text-job_title" id="job_title" name="j_jobtitle" placeholder="e.g &quot;Western family is looking for Helper&quot;" required="" title="" type="text" value="">
 									</div>
 								</fieldset>
 								<fieldset class="fieldset-company_name">
-									<label for="company_name">You are</label>
+									<label for="company_name">You are *</label>
 									<div class="field required-field">
-										<select class="jmfe-select-field jmfe-input-select input-select select-company_name" id="company_name" name="j_employertype">
-											<option selected disabled>
+										<select class="jmfe-select-field jmfe-input-select input-select select-company_name" id="company_name" name="j_employertype" required>
+											<option value="" selected disabled>
 												Select category
 											</option>
 											<option value="Direct Employer">
@@ -46,10 +46,10 @@
 									</div>
 								</fieldset>
 								<fieldset class="fieldset-job_region">
-									<label for="job_region">Job Region</label>
+									<label for="job_region">Job Region *</label>
 									<div class="field required-field">
 										<select class='postform' id='job_region' name='j_country' required="">
-											<option selected disabled>
+											<option value="" selected disabled>
 												Select Country
 											</option>
 											<option class="level-0" value="Hong Kong">
@@ -77,17 +77,17 @@
 									</div>
 								</fieldset>
 								<fieldset class="fieldset-job_location">
-									<label for="job_location">City <small></small></label>
+									<label for="job_location">City * <small></small></label>
 									<div class="field">
 										<input class="jmfe-text-field jmfe-input-text input-text text-job_location" id="job_location" name="j_districtlocation" placeholder="e.g. &quot;Wan Chai&quot;" title="" type="text" value=""> <small class="description text-job_location-description">As your location is important for the candidates, we recommend you to fill your district location.</small>
 									</div>
 								</fieldset>
 								<fieldset class="fieldset-job_type">
-									<label for="job_type">Job type</label>
+									<label for="job_type">Job type * 	</label>
 									<div class="field required-field">
 										<select class='postform' id='job_type' name='j_type' required="">
 											
-											<option selected disabled>
+											<option value="" selected disabled>
 												Select job type
 											</option>
 											<option class="level-0" selected="selected" value="Full Time">
@@ -105,8 +105,8 @@
 								<fieldset class="fieldset-job_category">
 									<label for="job_category">Job category <small>(optional)</small></label>
 									<div class="field">
-										<select class='postform' id='job_category' name='j_category'>
-											<option selected disabled>
+										<select class='postform' id='job_category' name='j_category' required="">
+											<option  value="" selected disabled>
 												Select job category
 											</option>
 											<option class="level-0" value="Domestic Helper">
@@ -135,23 +135,23 @@
 								</fieldset>
 								
 								<fieldset class="fieldset-job_description">
-									<label for="job_description">Job Description</label>
+									<label for="job_description">Job Description *	</label>
 									<div class="field required-field">
 										<div class="wp-core-ui wp-editor-wrap html-active" id="wp-job_description-wrap">
 											<link href='wp-includes/css/dashicons.min4a41.css?ver=4.8.2' id='dashicons-css' media='all' rel='stylesheet' type='text/css'>
 											<link href='wp-includes/css/editor.min4a41.css?ver=4.8.2' id='editor-buttons-css' media='all' rel='stylesheet' type='text/css'>
 											<div class="wp-editor-container" id="wp-job_description-editor-container">
-												<textarea class="wp-editor-area" cols="40" id="job_description" name="j_description" rows="8"></textarea>
+												<textarea class="wp-editor-area" cols="40" id="job_description" name="j_description" required="" rows="8"></textarea rw>
 											</div>
-										</div><small class="description">Please give some information about the job position and about your family.</small>
+										</div><small class="description"><i> &nbsp; &nbsp; &nbsp; Please give some information about the job position and about your family.</small></i>
 									</div>
 								</fieldset>
 								<fieldset class="fieldset-working_statuts">
-									<label for="working_statuts">Preferred Working Status</label>
+									<label for="working_statuts">Preferred Working Status *</label>
 									<div class="field required-field">
 										<select class='postform' id='working_statuts' name='j_workingstatus' required="">
 											
-											<option selected disabled>
+											<option value="" selected disabled>
 												Select status
 											</option>
 											<option  value="Break Contract">
@@ -222,9 +222,9 @@
 									</div>
 								</fieldset>
 								<fieldset class="fieldset-candidate_languages2">
-									<label for="candidate_languages2">Required Languages</label>
+									<label for="candidate_languages2">Required Languages *</label>
 									<div class="field required-field">
-										<ul class="job-manager-term-checklist job-manager-term-checklist-candidate_languages2">
+										<ul class="job-manager-term-checklist job-manager-term-checklist-candidate_languages2" required >
 											<li class="popular-category" id='candidate_language2-149'><label class="selectit"><input id="in-candidate_language2-149" name="j_requiredlanguages[]" type="checkbox" value="Cantonese"> Cantonese</label></li>
 											<li class="popular-category" id='candidate_language2-148'><label class="selectit"><input id="in-candidate_language2-148" name="j_requiredlanguages[]" type="checkbox" value="English"> English</label></li>
 											<li class="popular-category" id='candidate_language2-152'><label class="selectit"><input id="in-candidate_language2-152" name="j_requiredlanguages[]" type="checkbox" value="Filipino"> Filipino</label></li>
@@ -237,7 +237,7 @@
 									</div>
 								</fieldset>
 								<fieldset class="fieldset-application">
-									<label for="application">Application Email</label>
+									<label for="application">Application Email *</label>
 									<div class="field required-field">
 										<input class="jmfe-text-field jmfe-input-text input-text text-application" id="application" name="j_applicationemail" placeholder="Enter your email address" required="" title="" type="text" value="">
 									</div>
@@ -245,15 +245,15 @@
 								<h2>Family Details</h2>
 								
 								<fieldset class="fieldset-employer_nationalities">
-									<label for="employer_nationalities">Nationality</label>
+									<label for="employer_nationalities">Nationality *</label>
 									<div class="field required-field">
 										<select class='postform' id='employer_nationalities' name='j_nationality' required="">
-											<option selected disabled>
+											<option value="" selected disabled>
 												Select family type
 											</option><option class="level-0" value="American Family">
 												American Family
 											</option>
-											<option class="level-0" value="Australian Family">
+											<option class="level-0" value="Australian Family"
 												Australian Family
 											</option>
 											<option class="level-0" value="Belgian Family">
@@ -326,10 +326,10 @@
 									</div>
 								</fieldset>
 								<fieldset class="fieldset-family_types">
-									<label for="family_types">Family Type</label>
+									<label for="family_types">Family Type *</label>
 									<div class="field required-field">
 										<select class='postform' id='family_types' name='j_familytype' required="">
-											<option selected disabled>
+											<option value="" selected disabled>
 												Select family type
 											</option>
 											<option class="level-0" value="Couple">
@@ -378,15 +378,15 @@
 									</div>
 								</fieldset>
 								<fieldset class="fieldset-start_date">
-									<label for="start_date">Start Date</label>
+									<label for="start_date">Start Date *</label>
 									<div class="field required-field">
-										<input class="jmfe-date-field jmfe-input-date input-date input-text jmfe-date-picker date-picker-start_date" id="start_date" maxlength="" name="j_startdate" placeholder="" type="text" value=""> <span class="description date-picker-start_date-description"><small class="description">Deadline for applicants to start to work for your family.</small></span>
+										<input class="jmfe-date-field jmfe-input-date input-date input-text jmfe-date-picker date-picker-start_date" id="start_date" maxlength="" name="j_startdate" placeholder="" required="" type="text" value=""> <span class="description date-picker-start_date-description"><small class="description">Deadline for applicants to start to work for your family.</small></span>
 									</div><span class="description date-picker-start_date-description"></span>
 								</fieldset>
 								<fieldset class="fieldset-salary_range">
-									<span class="description date-picker-start_date-description"><label for="salary_range">Monthly Salary <small>(optional)</small></label></span>
+									<span class="description date-picker-start_date-description"><label for="salary_range">Monthly Salary * <small>(optional)</small></label></span>
 									<div class="field">
-										<span class="description date-picker-start_date-description"><input class="jmfe-text-field jmfe-input-text input-text text-salary_range" id="salary_range" name="j_monthlysalary" placeholder="e.g. &quot;HK$5,000&quot;, &quot;Based on experience&quot;..." title="" type="text" value=""></span>
+										<span class="description date-picker-start_date-description"><input class="jmfe-text-field jmfe-input-text input-text text-salary_range" id="salary_range" required="" name="j_monthlysalary" placeholder="e.g. &quot;HK$5,000&quot;, &quot;Based on experience&quot;..." title="" type="text" value=""></span>
 									</div><span class="description date-picker-start_date-description"></span>
 								</fieldset>
 								<fieldset class="fieldset-company_logo">
