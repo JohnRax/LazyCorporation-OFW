@@ -48,7 +48,7 @@
 								<fieldset class="fieldset-job_region">
 									<label for="job_region">Job Region *</label>
 									<div class="field required-field">
-										<select class='postform' id='job_region' name='j_country' required="">
+										<select class='postform' id='job_region' name='j_country' required>
 											<option value="" selected disabled>
 												Select Country
 											</option>
@@ -141,7 +141,7 @@
 											<link href='wp-includes/css/dashicons.min4a41.css?ver=4.8.2' id='dashicons-css' media='all' rel='stylesheet' type='text/css'>
 											<link href='wp-includes/css/editor.min4a41.css?ver=4.8.2' id='editor-buttons-css' media='all' rel='stylesheet' type='text/css'>
 											<div class="wp-editor-container" id="wp-job_description-editor-container">
-												<textarea class="wp-editor-area" cols="40" id="job_description" name="j_description" required="" rows="8"></textarea rw>
+												<textarea class="wp-editor-area" cols="40" id="job_description" name="j_description" required="" minlength="30" maxlength="150" rows="8"></textarea rw>
 											</div>
 										</div><small class="description"><i> &nbsp; &nbsp; &nbsp; Please give some information about the job position and about your family.</small></i>
 									</div>
@@ -225,7 +225,7 @@
 									<label for="candidate_languages2">Required Languages *</label>
 									<div class="field required-field">
 										<ul class="job-manager-term-checklist job-manager-term-checklist-candidate_languages2" required >
-											<li class="popular-category" id='candidate_language2-149'><label class="selectit"><input id="in-candidate_language2-149" name="j_requiredlanguages[]" type="checkbox" value="Cantonese"> Cantonese</label></li>
+											<li class="popular-category" id='candidate_language2-149'><label class="selectit"><input id="in-candidate_language2-149"  name="j_requiredlanguages[]" type="checkbox" value="Cantonese"> Cantonese</label></li>
 											<li class="popular-category" id='candidate_language2-148'><label class="selectit"><input id="in-candidate_language2-148" name="j_requiredlanguages[]" type="checkbox" value="English"> English</label></li>
 											<li class="popular-category" id='candidate_language2-152'><label class="selectit"><input id="in-candidate_language2-152" name="j_requiredlanguages[]" type="checkbox" value="Filipino"> Filipino</label></li>
 											<li class="popular-category" id='candidate_language2-153'><label class="selectit"><input id="in-candidate_language2-153" name="j_requiredlanguages[]" type="checkbox" value="Indonesian"> Indonesian</label></li>
@@ -253,7 +253,7 @@
 											</option><option class="level-0" value="American Family">
 												American Family
 											</option>
-											<option class="level-0" value="Australian Family"
+											<option class="level-0" value="Australian Family">
 												Australian Family
 											</option>
 											<option class="level-0" value="Belgian Family">
@@ -380,7 +380,7 @@
 								<fieldset class="fieldset-start_date">
 									<label for="start_date">Start Date *</label>
 									<div class="field required-field">
-										<input class="jmfe-date-field jmfe-input-date input-date input-text jmfe-date-picker date-picker-start_date" id="start_date" maxlength="" name="j_startdate" placeholder="" required="" type="text" value=""> <span class="description date-picker-start_date-description"><small class="description">Deadline for applicants to start to work for your family.</small></span>
+										<input class="jmfe-date-field jmfe-input-date input-date input-text jmfe-date-picker date-picker-start_date" id="start_date" maxlength="" name="j_startdate" placeholder="" required="" type="date" value=""> <span class="description date-picker-start_date-description"><small class="description">Deadline for applicants to start to work for your family.</small></span>
 									</div><span class="description date-picker-start_date-description"></span>
 								</fieldset>
 								<fieldset class="fieldset-salary_range">
