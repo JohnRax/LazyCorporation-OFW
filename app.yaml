@@ -14,10 +14,10 @@ handlers:
   application_readable: true
 
 - url: /(.+\.css)$
-  script: \1
+  static_dir: css
   
 - url: /(.+\.js)$
-  script: \1
+  static_dir: script
   
   
 # Serve php scripts.
