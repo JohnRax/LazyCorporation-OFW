@@ -196,8 +196,8 @@
 									<div class="field">
 										<ul class="job-manager-term-checklist job-manager-term-checklist-helper_requirements">
 											<li class="popular-category" id='helper_requirement-57'><label class="selectit"><input id="in-helper_requirement-57" name="j_cookingskills[]" type="checkbox" value="Arabic"> Arabic</label></li>
-											<li class="popular-category" id='helper_requirement-56'><label class="selectit"><input id="in-helper_requirement-56" name="j_cookingskills[]" type="checkbox" value="Chinese"> Child Care</label></li>
-											<li class="popular-category" id='helper_requirement-54'><label class="selectit"><input id="in-helper_requirement-54" name="j_cookingskills[]" type="checkbox" value="Indian"> Elder Care</label></li>
+											<li class="popular-category" id='helper_requirement-56'><label class="selectit"><input id="in-helper_requirement-56" name="j_cookingskills[]" type="checkbox" value="Chinese"> Chinese</label></li>
+											<li class="popular-category" id='helper_requirement-54'><label class="selectit"><input id="in-helper_requirement-54" name="j_cookingskills[]" type="checkbox" value="Indian"> Indian</label></li>
 											<li class="popular-category" id='helper_requirement-180'><label class="selectit"><input id="in-helper_requirement-180" name="j_cookingskills[]" type="checkbox" value="Japanese"> Japanese</label></li>
 											<li class="popular-category" id='helper_requirement-79'><label class="selectit"><input id="in-helper_requirement-79" name="j_cookingskills[]" type="checkbox" value="Vegetarian"> Vegetarian</label></li>
 											<li class="popular-category" id='helper_requirement-91'><label class="selectit"><input id="in-helper_requirement-91" name="j_cookingskills[]" type="checkbox" value="Western"> Western</label></li>
