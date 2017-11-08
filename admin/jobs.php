@@ -1,6 +1,8 @@
   <div id="page-wrapper">
             <div class="container-fluid">
                 <div class="row">
+                <?php  echo remove_job(); 
+                        echo approved_job();?>
                     <div class="col-lg-12">
                         <h1 class="page-header">Jobs</h1>
                     </div>
@@ -9,26 +11,29 @@
                      <table class="table table-bordered table-hover" >
                         <thead>
                         
-                            <tr>                     
-                                <th>JOB ID</th> 
-                                <th>POST BY</th>  
-                                <th>JOB TITLE</th> 
-                                <th>COUNTRY</th> 
-                                <th>LOCATION</th> 
-                                <th>TYPE</th> 
-                                <th>CATEGORY</th> 
-                                <th>DESCRIPTION</th> 
-                                <th>WORKING STATUS</th> 
-                                <th>MAIN DUTIES</th> 
-                                <th>COOKING SKILLS</th> 
-                                <th>OTHER SKILLS</th> 
-                                <th>REQUIRED LANGUAGES</th> 
-                                <th>APPLICATION EMAIL</th> 
-                                <th>EMPLOYER TYPE</th> 
-                                <th>NATIONALITY</th> 
-                                <th>FAMILY TYPE</th> 
-                                <th>START DATE</th> 
-                                <th>MONTHLY SALARY</th> 
+                            <tr>   
+                                <th></th> 
+                                <th></th>                  
+                                <th>Status</th>
+                                <th>Id</th> 
+                                <th>Post By</th>  
+                                <th>Title</th> 
+                                <th>Country</th> 
+                                <th>Location</th> 
+                                <th>Type</th> 
+                                <th>Category</th> 
+                                <th>Description</th> 
+                                <th>Working Status</th> 
+                                <th>Main Duties</th> 
+                                <th>Cooking Skills</th> 
+                                <th>Other Skills</th> 
+                                <th>Required Languages</th> 
+                                <th>Application Email</th> 
+                                <th>Employer Email</th> 
+                                <th>Nationality</th> 
+                                <th>Family Type</th> 
+                                <th>Start Date</th> 
+                                <th>Monthly Salary</th> 
                                             
                             </tr>
                         </thead>

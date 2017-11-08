@@ -1,0 +1,9 @@
+env: flex
+runtime: php
+api_version: 1
+runtime_config:
+  document_root: .
+env_variables:
+  MYSQL_DSN: mysql:unix_socket=/cloudsql/lazzyworks-185201:asia-northeast1:lazzyworksdb;dbname=lazycorporation-ofwdatabase
+  MYSQL_USER: root
+  MYSQL_PASSWORD: root

@@ -15,14 +15,14 @@
                             <!-- /input-group -->
                         </li>
                         <li>
-                            <a href="index.php?source=dashboard"><i class="fa fa-dashboard fa-fw"></i> Dashboard</a>
+                            <a href="homepage.php?source=dashboard"><i class="fa fa-dashboard fa-fw"></i> Dashboard</a>
                         </li>
                       
                          <li>
-                            <a href="index.php?source=user"><i class="fa fa-bar-chart-o fa-users"></i> Users<span class="fa arrow"></span></a>
+                            <a href="homepage.php?source=user"><i class="fa fa-bar-chart-o fa-users"></i> Users<span class="fa arrow"></span></a>
                             <ul class="nav nav-second-level">
                                 <li>
-                                    <a href="index.php?source=user">View all User</a>
+                                    <a href="homepage.php?source=user">View all User</a>
                                 </li>
                                 <li>
                                     <a href="morris.html">Add New User</a>
@@ -33,10 +33,10 @@
                          <li>
                         
                         <li>
-                            <a href="index.php?source=jobs"><i class="fa fa-edit fa-fw"></i> Jobs</a>
+                            <a href="homepage.php?source=jobs"><i class="fa fa-edit fa-fw"></i> Jobs</a>
                         </li>
                         <li>
-                            <a href="index.php?source=candidate"><i class="fa fa-edit fa-book"></i> Candidate</a>
+                            <a href="homepage.php?source=candidate"><i class="fa fa-edit fa-book"></i> Candidate</a>
                         </li>
                       
                     </ul>
