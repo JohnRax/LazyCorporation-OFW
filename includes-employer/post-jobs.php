@@ -85,12 +85,11 @@
 								<fieldset class="fieldset-job_type">
 									<label for="job_type">Job type * 	</label>
 									<div class="field required-field">
-										<select class='postform' id='job_type' name='j_type' required="">
-											
+										<select class='postform' id='job_type' name='j_type' required>
 											<option value="" selected disabled>
-												Select job type
+												Select Job Type
 											</option>
-											<option class="level-0" selected="selected" value="Full Time">
+											<option class="level-0" value="Full Time">
 												Full Time
 											</option>
 											<option class="level-0" value="Part Time">
@@ -101,6 +100,7 @@
 											</option>
 										</select>
 									</div>
+									
 								</fieldset>
 								<fieldset class="fieldset-job_category">
 									<label for="job_category">Job category <small>(optional)</small></label>
@@ -196,8 +196,8 @@
 									<div class="field">
 										<ul class="job-manager-term-checklist job-manager-term-checklist-helper_requirements">
 											<li class="popular-category" id='helper_requirement-57'><label class="selectit"><input id="in-helper_requirement-57" name="j_cookingskills[]" type="checkbox" value="Arabic"> Arabic</label></li>
-											<li class="popular-category" id='helper_requirement-56'><label class="selectit"><input id="in-helper_requirement-56" name="j_cookingskills[]" type="checkbox" value="Chinese"> Child Care</label></li>
-											<li class="popular-category" id='helper_requirement-54'><label class="selectit"><input id="in-helper_requirement-54" name="j_cookingskills[]" type="checkbox" value="Indian"> Elder Care</label></li>
+											<li class="popular-category" id='helper_requirement-56'><label class="selectit"><input id="in-helper_requirement-56" name="j_cookingskills[]" type="checkbox" value="Chinese"> Chinese</label></li>
+											<li class="popular-category" id='helper_requirement-54'><label class="selectit"><input id="in-helper_requirement-54" name="j_cookingskills[]" type="checkbox" value="Indian"> Indian</label></li>
 											<li class="popular-category" id='helper_requirement-180'><label class="selectit"><input id="in-helper_requirement-180" name="j_cookingskills[]" type="checkbox" value="Japanese"> Japanese</label></li>
 											<li class="popular-category" id='helper_requirement-79'><label class="selectit"><input id="in-helper_requirement-79" name="j_cookingskills[]" type="checkbox" value="Vegetarian"> Vegetarian</label></li>
 											<li class="popular-category" id='helper_requirement-91'><label class="selectit"><input id="in-helper_requirement-91" name="j_cookingskills[]" type="checkbox" value="Western"> Western</label></li>
