@@ -85,12 +85,11 @@
 								<fieldset class="fieldset-job_type">
 									<label for="job_type">Job type * 	</label>
 									<div class="field required-field">
-										<select class='postform' id='job_type' name='j_type' required="">
-											
+										<select class='postform' id='job_type' name='j_type' required>
 											<option value="" selected disabled>
-												Select job type
+												Select Job Type
 											</option>
-											<option class="level-0" selected="selected" value="Full Time">
+											<option class="level-0" value="Full Time">
 												Full Time
 											</option>
 											<option class="level-0" value="Part Time">
@@ -101,6 +100,7 @@
 											</option>
 										</select>
 									</div>
+									
 								</fieldset>
 								<fieldset class="fieldset-job_category">
 									<label for="job_category">Job category <small>(optional)</small></label>
