@@ -92,7 +92,7 @@ function login_user()
 
 				$login_query="SELECT * 
 								FROM
-								  USER 
+								  user 
 								WHERE u_username = '$username' 
 								  AND u_password = '$password' ";
 				$login_result=mysqli_query($connection,$login_query);

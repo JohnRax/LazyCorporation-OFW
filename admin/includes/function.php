@@ -113,7 +113,7 @@ function view_candidate()
 	  INNER JOIN user_personal_information 
 	    ON user_details.u_id = user_personal_information.u_id ";
     $view_candidate_result=mysqli_query($connection,$view_candidate_query);
-   
+
     if(!$view_candidate_result)
     {
         die("Something went wrong....".mysqli_error($connection));
@@ -138,9 +138,9 @@ function view_candidate()
         $language=$row['up_languages'];
 
         echo "<tr>";
+        echo "<td><a href=''>Remove</a></td>";
         echo "<td>".$id."</td>";
-        echo "<td>".$lastname."</td>";
-        echo "<td>".$firstname."</td>";
+        echo "<td>".$firstname.", ".$lastname."</td>";
         echo "<td>".$gender."</td>";
         echo "<td>".$age."</td>";
         echo "<td>".$maritalstatus."</td>";
@@ -152,12 +152,73 @@ function view_candidate()
         echo "<td>".$telephone."</td>";
         echo "<td>".$nationality."</td>";
         echo "<td>".$address."</td>";
-       
-        echo "<td><a href=''>DELETE</a></td>";
         echo "</tr>";
+
+            echo "<tr>
+                  <th></th>      
+                  <th></th>   
+                  <th></th>       
+                  <th>Prefered Work Location</th> 
+                  <th>Professional Title</th>  
+                  <th>Years Of Experience</th> 
+                  <th>Experience Summary</th>  
+                  <th>Cooking Skills</th>  
+                  <th>Skills</th> 
+                  <th>Other Skills</th> 
+                  <th>Working Status</th>
+                  <th>Availability</th>
+                  </tr>
+                         <tbody>";   
+           echo view_candidate_professional($id)."</tbody>";
+           echo "<br>";
 
     }
 
 }
+function view_candidate_professional($id)
+{
+    global $connection;
+    $view_candidate_query="SELECT * from user_professional_information where u_id='$id'";
+    $view_candidate_result=mysqli_query($connection,$view_candidate_query);
+    if(!$view_candidate_result)
+    {
+        die("Something went wrong....".mysqli_error($connection));
+    }
+
+    while($row=mysqli_fetch_assoc($view_candidate_result))
+    {
+       $preferedwork=$row['upi_preferedworklocation'];
+       $professionaltitle=$row['upi_professionaltitle'];
+       $yearsofexp=$row['upi_yearsofexp'];
+       $expsummary=$row['upi_expsummary'];
+       $cookingskills=$row['upi_cookingskills'];
+       $skillexp=$row['upi_skillsexp'];
+       $otherskills=$row['upi_otherskills'];
+       $workingstatus=$row['upi_workingstatus'];
+       $availability=$row['upi_availability'];
+        echo "<tr>";
+        echo "<td>";
+        echo "<td>";
+        echo "<td>";
+        echo "<td>".$preferedwork."</td>";
+        echo "<td>".$professionaltitle."</td>";
+        echo "<td>".$yearsofexp."</td>";
+        echo "<td>".$expsummary."</td>";
+        echo "<td>".$cookingskills."</td>";
+        echo "<td>".$skillexp."</td>";
+        echo "<td>".$otherskills."</td>";
+        echo "<td>".$workingstatus."</td>";
+        echo "<td>".$availability."</td>";
+        echo "</tr>";
+
+
+        
+                                                                                                   
+                    
+    }
+
+
+}
+
 
 ?>
