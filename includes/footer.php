@@ -12,8 +12,7 @@
 				<div class="row">
 					<div class="col-xs-12 col-md-6 col-lg-4">
 						<aside class="widget widget--footer widget_text" id="text-1">
-							<div class="textwidget">
-								<img data-recalc-dims="1" src="../i1.wp.com/www.helperplace.com/wp-content/uploads/2016/07/cropped-HelperPlace2e2b8.png?w=680&amp;ssl=1"><br>
+							<div class="textwidget"><br>
 								<br>
 								Employers looking for Domestic Helpers. No charge for helpers and almost free for employers!
 							</div>
